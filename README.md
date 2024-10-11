@@ -1,3 +1,4 @@
+- [这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1](https://mp.weixin.qq.com/s/Jn3vUCnwwdb8885c4YgSXg) #prompt#llm
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) #llm
 
 # About
