@@ -40,6 +40,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        cd bookmark-ai-summary
         pip install -r requirements.lock
 
     - name: Process changes
