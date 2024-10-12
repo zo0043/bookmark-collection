@@ -1,3 +1,4 @@
+- [写了 1000 条 Prompt 之后，我总结出了这 9 个框架](https://juejin.cn/post/7365711904159563802) #prompt#prompt框架
 - [Kafka延迟任务时间轮解析](https://juejin.cn/post/7392848248488263695) #kafka#原理解析
 - [Kafka Producer 发送消息原理 ](https://juejin.cn/post/7397024073228959778) #kafka#原理解析
 - [吴恩达LLM Agent工作流Prompt精华全解析](https://juejin.cn/post/7384353583183036452) #prompt#llm#工作流
