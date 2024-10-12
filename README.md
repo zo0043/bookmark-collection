@@ -1,3 +1,4 @@
+- [深入研究Redis大Key问题与解决方案](https://juejin.cn/post/7167015025154981895) #redis#面试问题#解决方案
 - [一张长图透彻理解SpringBoot 启动原理](https://juejin.cn/post/7308610896803659812) #java#springboot#一图千言
 - [线程池源码解析+设计思想+线程池监控框架设计](https://juejin.cn/post/7385752495534817295) #线程池#java
 - [支付设计白皮书：支付系统的路由系统设计](https://juejin.cn/post/7121192102125387789) #系统设计#支付设计
