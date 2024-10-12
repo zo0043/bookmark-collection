@@ -1,3 +1,4 @@
+- [Kafka Producer 发送消息原理 ](https://juejin.cn/post/7397024073228959778) #kafka#原理解析
 - [吴恩达LLM Agent工作流Prompt精华全解析](https://juejin.cn/post/7384353583183036452) #prompt#llm#工作流
 - [深入研究Redis大Key问题与解决方案](https://juejin.cn/post/7167015025154981895) #redis#面试问题#解决方案
 - [一张长图透彻理解SpringBoot 启动原理](https://juejin.cn/post/7308610896803659812) #java#springboot#一图千言
