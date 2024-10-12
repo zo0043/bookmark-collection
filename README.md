@@ -1,3 +1,4 @@
+- [【系统设计】- 常见缓存策略&一致性保障](https://juejin.cn/post/7424001170274631717) #系统设计#缓存#cache
 - [putting the you in cpu](https://cpu.land/the-basics) #cpu#read
 - [一图看懂.git](https://wizardzines.com/comics/inside-git/) git #git
 - [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/5288) #fund#stock
