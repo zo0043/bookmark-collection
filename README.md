@@ -1,3 +1,4 @@
+- [支付设计白皮书：支付系统的对账系统设计](https://juejin.cn/post/7102036546819194911) #系统设计
 - [【JVM系列】内存布局详解](https://juejin.cn/post/7424176544668860456) #jvm
 - [【系统设计】- 常见缓存策略&一致性保障](https://juejin.cn/post/7424001170274631717) #系统设计#缓存#cache
 - [putting the you in cpu](https://cpu.land/the-basics) #cpu#read
