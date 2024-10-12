@@ -49,6 +49,8 @@ jobs:
     - name: Commit changes to bookmark-summary
       run: |
         cd bookmark-summary
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add .
         git commit -m "Add new summaries" || echo "No changes to commit"
         git push
