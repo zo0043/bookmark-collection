@@ -25,11 +25,11 @@ jobs:
       with:
         path: bookmark-collection
 
-    - name: Checkout bookmark-summary
+    - name: Checkout bookmark-ai-summary
       uses: actions/checkout@v2
       with:
-        repository: zo0043/bookmark-summary
-        path: bookmark-summary
+        repository: zo0043/bookmark-ai-summary
+        path: bookmark-ai-summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
@@ -40,7 +40,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests waybackpy
+        pip install -r requirements.lock
 
     - name: Process changes
       env:
@@ -48,11 +48,11 @@ jobs:
         OPENAI_API_MODEL: ${{ secrets.OPENAI_API_MODEL }}
         OPENAI_API_ENDPOINT: ${{ secrets.OPENAI_API_ENDPOINT }}
       run: |
-        python bookmark-summary/process_changes.py
+        python bookmark-ai-summary/src/bookmark_ai_summary/bookmark_process_changes.py
 
     - name: Commit changes to bookmark-summary
       run: |
-        cd bookmark-summary
+        cd bookmark-ai-summary
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
