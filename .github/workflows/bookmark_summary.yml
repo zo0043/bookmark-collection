@@ -14,6 +14,10 @@ concurrency:
 
 jobs:
   summarize:
+    permissions:
+      contents: write  # To push a branch 
+      pull-requests: write  # To create a PR from that branch
+      
     runs-on: ubuntu-latest
     steps:
     - name: Checkout bookmark-collection
