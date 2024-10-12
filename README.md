@@ -1,3 +1,4 @@
+- [【JVM系列】内存布局详解](https://juejin.cn/post/7424176544668860456) #jvm
 - [【系统设计】- 常见缓存策略&一致性保障](https://juejin.cn/post/7424001170274631717) #系统设计#缓存#cache
 - [putting the you in cpu](https://cpu.land/the-basics) #cpu#read
 - [一图看懂.git](https://wizardzines.com/comics/inside-git/) git #git
