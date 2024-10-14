@@ -1,3 +1,4 @@
+- [分布式一致性协议 Raft 原理](https://wingsxdu.com/posts/algorithms/raft/) #分布式#一致性
 - [漫谈分布式共识算法与数据一致性](https://wingsxdu.com/posts/algorithms/distributed-consensus-and-data-consistent/) #分布式#共识
 - [漫谈分布式锁实现](https://wingsxdu.com/posts/algorithms/distributed-lock/) #分布式#分布式锁
 - [区块链技术如何提升Python开发中的数据隐私保护-原理与实战解析](https://juejin.cn/post/7424191151925002276) #python#区块链#数据隐私保护
