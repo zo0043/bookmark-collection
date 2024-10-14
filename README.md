@@ -1,3 +1,4 @@
+- [PMRF - a Hugging Face Space by ohayonguy](https://huggingface.co/spaces/ohayonguy/PMRF) 使用 PMRF 算法使人脸高清化 #ai
 - [Anthropic CEO 万字长文-预测强人工智能的积极未来](https://mp.weixin.qq.com/s/StZeb__lyrZl_as_sQ8l6A) #llm
 - [web2rss](https://web2rss.cc/) #tool#rss
 - [跨境电商：谈谈“一件代发”无货源供应模式](https://mp.weixin.qq.com/s?__biz=MzI5NTEyODAyMA==&mid=2247483988&idx=1&sn=f82ecb698b88333dc3eb13940b1a72d1&scene=21#wechat_redirect) #跨境#电商
