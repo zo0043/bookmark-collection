@@ -1,3 +1,4 @@
+- [【设计模式】揭秘Spring框架：设计模式如何驱动代码重用与扩展性的最佳实践](https://juejin.cn/post/7424904499666501632) #设计模式#spring#java
 - [PMRF - a Hugging Face Space by ohayonguy](https://huggingface.co/spaces/ohayonguy/PMRF) 使用 PMRF 算法使人脸高清化 #ai
 - [Anthropic CEO 万字长文-预测强人工智能的积极未来](https://mp.weixin.qq.com/s/StZeb__lyrZl_as_sQ8l6A) #llm
 - [web2rss](https://web2rss.cc/) #tool#rss
