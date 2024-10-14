@@ -1,3 +1,4 @@
+- [动手学深度学习-book](https://zh.d2l.ai/chapter_preface/index.html) #book#ai
 - [how to write](https://garden.bradwoods.io/notes/communication/how-to-write) #read
 - [分布式一致性协议 Raft 原理](https://wingsxdu.com/posts/algorithms/raft/) #分布式#一致性
 - [漫谈分布式共识算法与数据一致性](https://wingsxdu.com/posts/algorithms/distributed-consensus-and-data-consistent/) #分布式#共识
