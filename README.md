@@ -1,3 +1,4 @@
+- [后端开发和你聊聊JVM如何优化](https://mp.weixin.qq.com/s/Gsd-pJ9uhsRiI0cDx4O1iQ) #jvm
 - [消费金融系统重构](https://juejin.cn/post/7356550566535495732) #系统重构
 - [团队开发流程规范](https://blog.xiayf.cn/2023/04/05/team-dev-process-std/) #流程
 - [动手学深度学习-book](https://zh.d2l.ai/chapter_preface/index.html) #book#ai
