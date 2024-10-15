@@ -1,3 +1,4 @@
+- [LivePhoto](https://xavierchen34.github.io/LivePhoto-Page/) #ai#应用#ai应用
 - [后端开发和你聊聊JVM如何优化](https://mp.weixin.qq.com/s/Gsd-pJ9uhsRiI0cDx4O1iQ) #jvm
 - [消费金融系统重构](https://juejin.cn/post/7356550566535495732) #系统重构
 - [团队开发流程规范](https://blog.xiayf.cn/2023/04/05/team-dev-process-std/) #流程
