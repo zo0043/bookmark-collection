@@ -1,3 +1,4 @@
+- [团队开发流程规范](https://blog.xiayf.cn/2023/04/05/team-dev-process-std/) #流程
 - [动手学深度学习-book](https://zh.d2l.ai/chapter_preface/index.html) #book#ai
 - [how to write](https://garden.bradwoods.io/notes/communication/how-to-write) #read
 - [分布式一致性协议 Raft 原理](https://wingsxdu.com/posts/algorithms/raft/) #分布式#一致性
