@@ -1,3 +1,4 @@
+- [黑天鹅之父《塔勒布智慧箴言录》下篇](https://mp.weixin.qq.com/s?__biz=MzI0MDA4MjE5Mg==&mid=2649809232&idx=1&sn=e69e0349e9550e0bb10244433520eb8c&chksm=f1240d2fc65384396b92ca49f0f71aa23109d2685aa1000776e560a7027b47c49842ae047173&scene=21#wechat_redirect) #黑天鹅#塔勒布
 - [黑天鹅之父《塔勒布智慧箴言录》](https://mp.weixin.qq.com/s?__biz=MzI0MDA4MjE5Mg==&mid=2649809225&idx=1&sn=fa1ccda52d081aa0d798db3f4a556bc0&chksm=f1240d36c6538420511072489579766d018a1ba3f8fe707f0c36b6b40e64e7a038dcf6e5f58e&scene=21#wechat_redirect) #黑天鹅#塔勒布
 - [风险长什么样？《投资最重要的事》](https://mp.weixin.qq.com/s?__biz=MzI0MDA4MjE5Mg==&mid=2649808844&idx=1&sn=df466a28ccb7666a37341f1cea4edd36&chksm=f12433b3c653baa5263b9892bf67575fdf31aaf9d519e0858f51b20b819aa0bc39508f7f7cf0&scene=21#wechat_redirect) #投资#风险意识
 - [中金：美国大选的四种情景推演](https://mp.weixin.qq.com/s/L1p3DTA5lOu_5_GCBmbORQ) #美国大选
