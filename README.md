@@ -1,3 +1,4 @@
+- [游戏推荐业务中基于sentinel的动态限流实践](https://mp.weixin.qq.com/s/lFuXVBUW_PkrBp4NoAFTig) #限流#sentinel#动态限流
 - [AI早报](https://mp.weixin.qq.com/s/s-zZkKtjXgNJUQQgAM07Zw) #ai#早报
 - [中国网络空间安全协会：应系统排查英特尔产品网络安全风险](https://www.yicai.com/news/102315306.html) #国产化
 - [黑天鹅之父《塔勒布智慧箴言录》下篇](https://mp.weixin.qq.com/s?__biz=MzI0MDA4MjE5Mg==&mid=2649809232&idx=1&sn=e69e0349e9550e0bb10244433520eb8c&chksm=f1240d2fc65384396b92ca49f0f71aa23109d2685aa1000776e560a7027b47c49842ae047173&scene=21#wechat_redirect) #黑天鹅#塔勒布
