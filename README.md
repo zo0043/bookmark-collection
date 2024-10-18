@@ -1,3 +1,4 @@
+- [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s/Z2sNg-VjdmGD5kymZPrrYQ) #支付系统#系统设计
 - [游戏推荐业务中基于sentinel的动态限流实践](https://mp.weixin.qq.com/s/lFuXVBUW_PkrBp4NoAFTig) #限流#sentinel#动态限流
 - [AI早报](https://mp.weixin.qq.com/s/s-zZkKtjXgNJUQQgAM07Zw) #ai#早报
 - [中国网络空间安全协会：应系统排查英特尔产品网络安全风险](https://www.yicai.com/news/102315306.html) #国产化
