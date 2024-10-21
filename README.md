@@ -1,3 +1,4 @@
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) #系统设计
 - [如何提高决断力？](https://mp.weixin.qq.com/s/SYPNxCabh3bEFQiDQNsA7g) #学习
 - [LivePortrait：一种让照片动起来的开源技术方案](https://juejin.cn/post/7398461918906531850) #ai#开源项目
 - [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s/Z2sNg-VjdmGD5kymZPrrYQ) #支付系统#系统设计
