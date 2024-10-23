@@ -1,3 +1,4 @@
+- [微服务与分布式系统设计看这篇就够了！](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw) #分布式系统#分布式设计
 - [一文掌握大模型提示词技巧：从战略到战术](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247537829&idx=1&sn=73e0771763bd20d05e8d392578cf034a&chksm=e92a69aade5de0bc23222f6b04bb1fca4640a3f00897b6ced2ed896355d89890a373b9aa6a9b&scene=21#wechat_redirect) #prompt#结构化
 - [Prompt 制作方法：文字逻辑关系图](https://mp.weixin.qq.com/s?__biz=MzkxMTQ0ODE3Ng==&mid=2247488255&idx=1&sn=0af2c1235780db663670e799f4802d73&chksm=c11d53e0f66adaf6a117a10bf37f07ddc0011d0984ec2497c81a2eaeb177e9c3dc3c67cb196c&scene=21#wechat_redirect) #prompt#ai#卡片
 - [以「时间」为主题的 Prompt ，可以怎么做？](https://mp.weixin.qq.com/s/BOMOQVGQ5hvd8dDaKwb18A) #prompt#ai
