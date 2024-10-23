@@ -1,3 +1,4 @@
+- [48张图全面讲解供应链管理](https://mp.weixin.qq.com/s?__biz=MzA5MTYzOTgyOA==&mid=2659334493&idx=1&sn=3f0e806158321ce3d68e354b1754c636&chksm=8b0fc026bc78493008ce335229334065d43b1f7532a327f4010e6316389d046b11a76bf2717a&scene=21#wechat_redirect) #供应链#供应链管理
 - [全面降本的思路与方法](https://mp.weixin.qq.com/s/Da7vvWEFVrV05r0CerQrEw) #降本#降本增效
 - [微服务与分布式系统设计看这篇就够了！](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw) #分布式系统#分布式设计
 - [一文掌握大模型提示词技巧：从战略到战术](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247537829&idx=1&sn=73e0771763bd20d05e8d392578cf034a&chksm=e92a69aade5de0bc23222f6b04bb1fca4640a3f00897b6ced2ed896355d89890a373b9aa6a9b&scene=21#wechat_redirect) #prompt#结构化
