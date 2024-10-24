@@ -1,3 +1,4 @@
+- [0基础小白独立开发的第一款小程序 ](https://mp.weixin.qq.com/s/dl8xiQdJsDb4eq1hqi5p4g) #小程序#ai
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/) #readlist
 - [完整供应链管理知识](https://mp.weixin.qq.com/s?__biz=MzA5MTYzOTgyOA==&mid=2659384779&idx=8&sn=5e3dc668de1a87b9a677f8c1af673002&chksm=8b0f04b0bc788da67e050659ef2f418392c253ca7215e907deeede9310e525b6818d57ad7a2c&scene=21#wechat_redirect) #供应链管理
 - [48张图全面讲解供应链管理](https://mp.weixin.qq.com/s?__biz=MzA5MTYzOTgyOA==&mid=2659334493&idx=1&sn=3f0e806158321ce3d68e354b1754c636&chksm=8b0fc026bc78493008ce335229334065d43b1f7532a327f4010e6316389d046b11a76bf2717a&scene=21#wechat_redirect) #供应链#供应链管理
