@@ -1,3 +1,4 @@
+- [基于实时 CPU 使用率的 Kubernetes 自定义调度器揭开Kubernetes调度的神秘面纱](https://juejin.cn/post/7427399875236528191) #kubernetes调度#kubernetes
 - [JVM 架构原理浅谈](https://ddrandy.github.io/2022/04/07/jvm-abc/) #jvm
 - [她和他的第一次出国自由行 - 巴厘岛](https://deepzz.com/post/we-are-traveled-in-bali.html) #旅行
 - [0基础小白独立开发的第一款小程序 ](https://mp.weixin.qq.com/s/dl8xiQdJsDb4eq1hqi5p4g) #小程序#ai
