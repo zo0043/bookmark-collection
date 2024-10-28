@@ -1,3 +1,4 @@
+- [5 Chunking Strategies For RAG](https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag) #rag
 - [做三维开发这么久，竟然还不知道这些宝藏网站？](https://juejin.cn/post/7427455855971450916) #三维开发
 - [基于实时 CPU 使用率的 Kubernetes 自定义调度器揭开Kubernetes调度的神秘面纱](https://juejin.cn/post/7427399875236528191) #kubernetes调度#kubernetes
 - [JVM 架构原理浅谈](https://ddrandy.github.io/2022/04/07/jvm-abc/) #jvm
