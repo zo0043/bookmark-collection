@@ -1,3 +1,4 @@
+- [整合者：为有好奇心的人开辟的数字职业道路](https://mp.weixin.qq.com/s/mGOj9NpUlc_0j27xK8ZFMA) #整合者
 - [Don’t Implement Unification by Recursion](https://www.philipzucker.com/unify/) #recursion
 - [Claude Prompt：逻辑之刃](https://mp.weixin.qq.com/s/IFHOJfP3V7TM865inhKWvA) #prompt
 - [第4章 揭秘区块链：从创世区块到链式结构](https://juejin.cn/post/7428627080424128551) #区块链
