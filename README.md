@@ -1,3 +1,4 @@
+- [Claude Prompt：逻辑之刃](https://mp.weixin.qq.com/s/IFHOJfP3V7TM865inhKWvA) #prompt
 - [第4章 揭秘区块链：从创世区块到链式结构](https://juejin.cn/post/7428627080424128551) #区块链
 - [AQS 很多人都没有讲明白 ](https://juejin.cn/post/7428927105612185627) #aqs#java#并发
 - [如何优雅编译一个 Markdown 文档](https://diygod.cc/unified-markdown?locale=zh) #markdown
