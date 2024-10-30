@@ -1,3 +1,4 @@
+- [深度拆解天花板级复杂的提示词](https://mp.weixin.qq.com/s?__biz=MzA4MjM5MDI0Ng==&mid=2648505470&idx=1&sn=fa7a7e662255990f8bf80db0d1cec7b0&scene=21#wechat_redirect) #prompt
 - [过去一年最出圈的Prompt项目&教程](https://mp.weixin.qq.com/s?__biz=Mzg2OTYyMTcwMw==&amp;mid=2247534943&amp;idx=1&amp;sn=ed31c7c524ea840ec050109987a0861a&amp;chksm=ce9843f7f9efcae16802764be18648b876303ed6e736b6cece2cd4839fd94ae2ee3ad4a855d7&amp;scene=58&amp;subscene=0#rd) #prompt
 - [整合者：为有好奇心的人开辟的数字职业道路](https://mp.weixin.qq.com/s/mGOj9NpUlc_0j27xK8ZFMA) #整合者
 - [Don’t Implement Unification by Recursion](https://www.philipzucker.com/unify/) #recursion
