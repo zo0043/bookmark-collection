@@ -1,3 +1,4 @@
+- [过去一年最出圈的Prompt项目&教程](https://mp.weixin.qq.com/s?__biz=Mzg2OTYyMTcwMw==&amp;mid=2247534943&amp;idx=1&amp;sn=ed31c7c524ea840ec050109987a0861a&amp;chksm=ce9843f7f9efcae16802764be18648b876303ed6e736b6cece2cd4839fd94ae2ee3ad4a855d7&amp;scene=58&amp;subscene=0#rd) #prompt
 - [整合者：为有好奇心的人开辟的数字职业道路](https://mp.weixin.qq.com/s/mGOj9NpUlc_0j27xK8ZFMA) #整合者
 - [Don’t Implement Unification by Recursion](https://www.philipzucker.com/unify/) #recursion
 - [Claude Prompt：逻辑之刃](https://mp.weixin.qq.com/s/IFHOJfP3V7TM865inhKWvA) #prompt
