@@ -1,3 +1,4 @@
+- [How to ask good questions](https://jvns.ca/blog/good-questions/) #learn
 - [Spring官方竟然真的支持Bean的异步初始化](https://juejin.cn/post/7370994785655701531) #spring#bean
 - [打造私人专属智能股票预测模型](https://mp.weixin.qq.com/s/0W3cmSkr0TthpOTLr3WWkw) #预测模型
 - [OpenAI o1模型的前世今生](https://mp.weixin.qq.com/s/OCgbffOPrZ5kzFKisSUC9Q) #openai
