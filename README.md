@@ -1,3 +1,4 @@
+- [打造私人专属智能股票预测模型](https://mp.weixin.qq.com/s/0W3cmSkr0TthpOTLr3WWkw) #预测模型
 - [OpenAI o1模型的前世今生](https://mp.weixin.qq.com/s/OCgbffOPrZ5kzFKisSUC9Q) #openai
 - [对于谢治宇、朱少醒、姜诚等5位顶流基金经理的最新季报解读与调仓分析](https://xueqiu.com/8233733182/310036973) #基金
 - [深度拆解天花板级复杂的提示词](https://mp.weixin.qq.com/s?__biz=MzA4MjM5MDI0Ng==&mid=2648505470&idx=1&sn=fa7a7e662255990f8bf80db0d1cec7b0&scene=21#wechat_redirect) #prompt
