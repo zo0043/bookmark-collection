@@ -1,3 +1,4 @@
+- [Spring官方竟然真的支持Bean的异步初始化](https://juejin.cn/post/7370994785655701531) #spring#bean
 - [打造私人专属智能股票预测模型](https://mp.weixin.qq.com/s/0W3cmSkr0TthpOTLr3WWkw) #预测模型
 - [OpenAI o1模型的前世今生](https://mp.weixin.qq.com/s/OCgbffOPrZ5kzFKisSUC9Q) #openai
 - [对于谢治宇、朱少醒、姜诚等5位顶流基金经理的最新季报解读与调仓分析](https://xueqiu.com/8233733182/310036973) #基金
