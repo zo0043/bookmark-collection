@@ -1,3 +1,4 @@
+- [【国金策略】公募基金三季度持仓分析](https://mp.weixin.qq.com/s/Ih_6mAIiwvWE5cEEgtJuNQ) #基金#策略
 - [想整一个自动的图床，那就白嫖一个](https://juejin.cn/post/7433243522555936779) #图床
 - [The 6 Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/) #ai#prompt
 - [How to ask good questions](https://jvns.ca/blog/good-questions/) #learn
