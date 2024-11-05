@@ -1,3 +1,4 @@
+- [想整一个自动的图床，那就白嫖一个](https://juejin.cn/post/7433243522555936779) #图床
 - [The 6 Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/) #ai#prompt
 - [How to ask good questions](https://jvns.ca/blog/good-questions/) #learn
 - [Spring官方竟然真的支持Bean的异步初始化](https://juejin.cn/post/7370994785655701531) #spring#bean
