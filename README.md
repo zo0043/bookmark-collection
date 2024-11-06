@@ -1,3 +1,4 @@
+- [v0.dev prompt 结构详细解释（10/24/2024）](https://baoyu.io/blog/v0-dev-prompt-structure-explanation) #prompt
 - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/) #llm#prompt
 - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/index.html) #prompt
 - [【国金策略】公募基金三季度持仓分析](https://mp.weixin.qq.com/s/Ih_6mAIiwvWE5cEEgtJuNQ) #基金#策略
