@@ -1,3 +1,4 @@
+- [图解支付系统简洁而精妙的状态机设计与实现](https://juejin.cn/post/7414047932464627746) #状态机
 - [v0.dev prompt 结构详细解释（10/24/2024）](https://baoyu.io/blog/v0-dev-prompt-structure-explanation) #prompt
 - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/) #llm#prompt
 - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/index.html) #prompt
