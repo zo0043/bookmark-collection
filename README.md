@@ -1,3 +1,4 @@
+- [How to Build a Knowledge Graph: A Step-by-Step Guide](https://www.falkordb.com/blog/how-to-build-a-knowledge-graph/) #knowledgegraph
 - [目录 | 系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #read#readlist
 - [图解支付系统简洁而精妙的状态机设计与实现](https://juejin.cn/post/7414047932464627746) #状态机
 - [v0.dev prompt 结构详细解释（10/24/2024）](https://baoyu.io/blog/v0-dev-prompt-structure-explanation) #prompt
