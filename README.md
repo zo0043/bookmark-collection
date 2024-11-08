@@ -1,3 +1,4 @@
+- [凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](https://www.cnblogs.com/trunks2008/p/16706962.html) #kg#neo4j
 - [How to Build a Knowledge Graph: A Step-by-Step Guide](https://www.falkordb.com/blog/how-to-build-a-knowledge-graph/) #knowledgegraph
 - [目录 | 系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #read#readlist
 - [图解支付系统简洁而精妙的状态机设计与实现](https://juejin.cn/post/7414047932464627746) #状态机
