@@ -1,3 +1,4 @@
+- [项目实战：如何构建知识图谱](https://www.cnblogs.com/ibook360/p/8446856.html) #kg
 - [知识图谱技术体系](https://www.cnblogs.com/tgzhu/p/14395279.html) #kg
 - [知识图谱概述](https://www.cnblogs.com/tgzhu/p/14393994.html) #知识图谱概述#kg
 - [详解自下而上构建知识图谱全过程](https://www.4u4v.net/xiang-jie-zi-xia-er-shang-gou-jian-zhi-shi-tu-pu-quan-guo-cheng.html) #kg
