@@ -1,3 +1,4 @@
+- [结合大型语言模型和知识图谱 ](https://www.wisecube.ai/blog/combining-large-language-models-and-knowledge-graphs/) #kg
 - [项目实战：如何构建知识图谱](https://www.cnblogs.com/ibook360/p/8446856.html) #kg
 - [知识图谱技术体系](https://www.cnblogs.com/tgzhu/p/14395279.html) #kg
 - [知识图谱概述](https://www.cnblogs.com/tgzhu/p/14393994.html) #知识图谱概述#kg
