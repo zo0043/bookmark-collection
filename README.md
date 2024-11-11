@@ -1,3 +1,4 @@
+- [3.5万字：一文搞懂“支付系统”](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247496752&idx=1&sn=873a2c35041818c331ba1062cc3c99e2&chksm=ce127fc7f965f6d1eb1cee0568de0d294702303297039e212f3fc71053a3c4fe1b05b14a7b48&scene=21#wechat_redirect) #支付系统
 - [详解：“资损防控”方法论](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247501374&idx=1&sn=04a6753f3c41016d2208731992088f6b&scene=21#wechat_redirect) #资损防控
 - [离职决策模型：聊聊跳槽的底层逻辑](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491548&idx=1&sn=72fa22c38f7d7ed32e50b9e32192b2d2&scene=21#wechat_redirect) #底层逻辑
 - [一文搞懂SaaS多租户的3种隔离模式](https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247488669&idx=1&sn=0a609152f3b6e6d18a9040558fd5ae85&scene=21#wechat_redirect) #saas
