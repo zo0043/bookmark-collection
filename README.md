@@ -1,3 +1,4 @@
+- [一文搞懂SaaS多租户的3种隔离模式](https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247488669&idx=1&sn=0a609152f3b6e6d18a9040558fd5ae85&scene=21#wechat_redirect) #saas
 - [面试高频问题：你是如何进行跨部门合作的？](https://mp.weixin.qq.com/s?__biz=MzA4Mzc5ODAwMA==&mid=2247488876&idx=1&sn=152a2ba5b6e871841bb400b146064024&scene=21#wechat_redirect) #interview
 - [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247684575&idx=1&sn=6a314aa2da733365717e855bb691de77&scene=21#wechat_redirect) #架构设计
 - [每天看小红书热门资讯，我不信你做不好小红书](https://mp.weixin.qq.com/s/KyYm7htwsqoBrkEsufxaOQ) #xhs
