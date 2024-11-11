@@ -1,3 +1,4 @@
+- [白话文讲解大模型｜ Attention is all you need](https://mp.weixin.qq.com/s/_N-xXOx_XvdeWr1lls39sw) #llm
 - [如何实现图片阅后即焚功能的全面指南](https://juejin.cn/post/7433068127786909731) #系统设计
 - [1.9万字：支付清算生态](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247501204&idx=1&sn=a2e3335e18f591f16ebab0add53b17c5&chksm=ce124e63f965c775700560fcc0875f09dc7d6c279c3ba4c66a0cd45e491e842a4afe379a8450&scene=21#wechat_redirect) #支付清算
 - [万字：清结算体系，全局方案深度解析](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247499196&idx=1&sn=5d7a1fc62e590c2567236734a4d73533&chksm=ce12764bf965ff5de50eb7b49f0a4b9c070ce1f9879e5fa242de664a3a54f05e880798167fdc&scene=21#wechat_redirect) #清结算体系
