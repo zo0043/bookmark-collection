@@ -1,3 +1,4 @@
+- [LLM应用实战: AI资讯的自动聚合及报告生成开发工具](https://juejin.cn/post/7433957728430571557) #rss
 - [白话文讲解大模型｜ Attention is all you need](https://mp.weixin.qq.com/s/_N-xXOx_XvdeWr1lls39sw) #llm
 - [如何实现图片阅后即焚功能的全面指南](https://juejin.cn/post/7433068127786909731) #系统设计
 - [1.9万字：支付清算生态](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247501204&idx=1&sn=a2e3335e18f591f16ebab0add53b17c5&chksm=ce124e63f965c775700560fcc0875f09dc7d6c279c3ba4c66a0cd45e491e842a4afe379a8450&scene=21#wechat_redirect) #支付清算
