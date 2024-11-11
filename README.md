@@ -1,3 +1,4 @@
+- [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247684575&idx=1&sn=6a314aa2da733365717e855bb691de77&scene=21#wechat_redirect) #架构设计
 - [每天看小红书热门资讯，我不信你做不好小红书](https://mp.weixin.qq.com/s/KyYm7htwsqoBrkEsufxaOQ) #xhs
 - [结合大型语言模型和知识图谱 ](https://www.wisecube.ai/blog/combining-large-language-models-and-knowledge-graphs/) #kg
 - [项目实战：如何构建知识图谱](https://www.cnblogs.com/ibook360/p/8446856.html) #kg
