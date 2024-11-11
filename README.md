@@ -1,3 +1,4 @@
+- [详解：“资损防控”方法论](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247501374&idx=1&sn=04a6753f3c41016d2208731992088f6b&scene=21#wechat_redirect) #资损防控
 - [离职决策模型：聊聊跳槽的底层逻辑](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491548&idx=1&sn=72fa22c38f7d7ed32e50b9e32192b2d2&scene=21#wechat_redirect) #底层逻辑
 - [一文搞懂SaaS多租户的3种隔离模式](https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247488669&idx=1&sn=0a609152f3b6e6d18a9040558fd5ae85&scene=21#wechat_redirect) #saas
 - [面试高频问题：你是如何进行跨部门合作的？](https://mp.weixin.qq.com/s?__biz=MzA4Mzc5ODAwMA==&mid=2247488876&idx=1&sn=152a2ba5b6e871841bb400b146064024&scene=21#wechat_redirect) #interview
