@@ -1,3 +1,4 @@
+- [一文讲透数据库缓存一致性问题](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247685208&idx=1&sn=e0315649a49533d67f56c7006dbafc53&chksm=eaa60e08ddd1871e9912dc71205460256af4f72f6561090c651f9920720991ae0986bc24ce70&scene=21#wechat_redirect) #缓存一致性
 - [万级TPS优惠券系统设计与实践](https://mp.weixin.qq.com/s/qs3Okf7Jxh9nYFHfG7MGsQ) #优惠券
 - [如何才能在Java中优雅的操纵时间？](https://mp.weixin.qq.com/s/J-pmgYFRBXIABSfBB_Ax2w) #java#时间
 - [LLM应用实战: AI资讯的自动聚合及报告生成开发工具](https://juejin.cn/post/7433957728430571557) #rss
