@@ -1,3 +1,4 @@
+- [写一个Chrome浏览器插件](https://juejin.cn/post/7438494617508888610) #插件#chrome
 - [后退一步思考](https://m.okjike.com/originalPosts/6732940dc79063fd7b372c44?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #prompt
 - [一篇完全由AI写的10万+爆款，让我窥见了AI商用的未来](https://mp.weixin.qq.com/s/piu-xcV-jVspzHtw-n7-qQ) #agc#xhs
 - [提示词增强器](https://m.okjike.com/originalPosts/6738db208dc134696702eef7?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #prompt
