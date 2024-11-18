@@ -1,3 +1,4 @@
+- [一篇完全由AI写的10万+爆款，让我窥见了AI商用的未来](https://mp.weixin.qq.com/s/piu-xcV-jVspzHtw-n7-qQ) #agc#xhs
 - [提示词增强器](https://m.okjike.com/originalPosts/6738db208dc134696702eef7?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #prompt
 - [一文讲透数据库缓存一致性问题](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247685208&idx=1&sn=e0315649a49533d67f56c7006dbafc53&chksm=eaa60e08ddd1871e9912dc71205460256af4f72f6561090c651f9920720991ae0986bc24ce70&scene=21#wechat_redirect) #缓存一致性
 - [万级TPS优惠券系统设计与实践](https://mp.weixin.qq.com/s/qs3Okf7Jxh9nYFHfG7MGsQ) #优惠券
