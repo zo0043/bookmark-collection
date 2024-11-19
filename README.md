@@ -1,3 +1,4 @@
+- [万字干货｜复杂表格多Agent方案：从LLM洞察、系统性思考到实践经验总结](https://mp.weixin.qq.com/s/lEbFZTPCdFPW-X22253ZPg) #多agent
 - [TTPlanetPig/Comfyui_Object_Migration](https://github.sheincorp.cn/TTPlanetPig/Comfyui_Object_Migration) #服装试穿
 - [写一个Chrome浏览器插件](https://juejin.cn/post/7438494617508888610) #插件#chrome
 - [后退一步思考](https://m.okjike.com/originalPosts/6732940dc79063fd7b372c44?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #prompt
