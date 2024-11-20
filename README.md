@@ -1,3 +1,4 @@
+- [打包起来！把Agent接入GraphRAG！装进MAS中](https://mp.weixin.qq.com/s?__biz=MzU4NDk0MDAwMw==&mid=2247486982&idx=1&sn=ccfb472bc6cc7479a6c86e9a1ce1e37e&chksm=fd936e8acae4e79cafa73196629a192d31a79d75863eb825154a4fe643fbdce69529981ee4ac&cur_album_id=3605740024773459977&scene=189#wechat_redirect) #graphrag#rag#kg
 - [万字干货｜复杂表格多Agent方案：从LLM洞察、系统性思考到实践经验总结](https://mp.weixin.qq.com/s/lEbFZTPCdFPW-X22253ZPg) #多agent
 - [TTPlanetPig/Comfyui_Object_Migration](https://github.sheincorp.cn/TTPlanetPig/Comfyui_Object_Migration) #服装试穿
 - [写一个Chrome浏览器插件](https://juejin.cn/post/7438494617508888610) #插件#chrome
