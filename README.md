@@ -1,3 +1,4 @@
+- [iText2KG：使用LLM构建增量知识图谱（KG）](https://mp.weixin.qq.com/s/0nTku_hyTLtQilCXGSd2AA) #kg#llm
 - [GraphRAG手调Prompt提取自定义实体](https://juejin.cn/post/7397597730631417892) #prompt
 - [并发编程体系概述](https://mp.weixin.qq.com/s/sLHdUNv66jfmL5oJz_h0Fg) #并发
 - [打包起来！把Agent接入GraphRAG！装进MAS中](https://mp.weixin.qq.com/s?__biz=MzU4NDk0MDAwMw==&mid=2247486982&idx=1&sn=ccfb472bc6cc7479a6c86e9a1ce1e37e&chksm=fd936e8acae4e79cafa73196629a192d31a79d75863eb825154a4fe643fbdce69529981ee4ac&cur_album_id=3605740024773459977&scene=189#wechat_redirect) #graphrag#rag#kg
