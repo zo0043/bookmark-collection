@@ -1,3 +1,4 @@
+- [如何预防个人极端案事件](https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/)
 - [iText2KG：使用LLM构建增量知识图谱（KG）](https://mp.weixin.qq.com/s/0nTku_hyTLtQilCXGSd2AA) #kg#llm
 - [GraphRAG手调Prompt提取自定义实体](https://juejin.cn/post/7397597730631417892) #prompt
 - [并发编程体系概述](https://mp.weixin.qq.com/s/sLHdUNv66jfmL5oJz_h0Fg) #并发
