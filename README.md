@@ -1,3 +1,4 @@
+- [2024面试必问:系统频繁Full GC，你有哪些优化思路？第一步分析gc日志](https://juejin.cn/post/7399273700103077938)
 - [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment) #系统设计
 - [用AI做小绿书，5分钟一篇，连爆多篇10w+，赶紧学起来](https://juejin.cn/post/7426675172918853686)
 - [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](https://juejin.cn/post/7441018038482599987)
