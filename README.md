@@ -1,3 +1,4 @@
+- [用AI做小绿书，5分钟一篇，连爆多篇10w+，赶紧学起来](https://juejin.cn/post/7426675172918853686)
 - [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](https://juejin.cn/post/7441018038482599987)
 - [扣子赚钱文章已5万阅读，大家对智能体看法](https://m.okjike.com/originalPosts/67374e2bf9e6130b88c8e7cf?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
 - [神级Prompt多到用不完，我用Claude将它们重构了一遍](https://mp.weixin.qq.com/s/JFghFwUud16fQfFsYBamvA) #prompt
