@@ -1,3 +1,4 @@
+- [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment) #系统设计
 - [用AI做小绿书，5分钟一篇，连爆多篇10w+，赶紧学起来](https://juejin.cn/post/7426675172918853686)
 - [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](https://juejin.cn/post/7441018038482599987)
 - [扣子赚钱文章已5万阅读，大家对智能体看法](https://m.okjike.com/originalPosts/67374e2bf9e6130b88c8e7cf?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
