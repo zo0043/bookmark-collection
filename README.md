@@ -1,3 +1,4 @@
+- [神级Prompt多到用不完，我用Claude将它们重构了一遍](https://mp.weixin.qq.com/s/JFghFwUud16fQfFsYBamvA) #prompt
 - [CopyCoder，不和Cursor 和 Windsurf 争主角，只做年度最强无敌的绿叶](https://mp.weixin.qq.com/s/gpXAurZSPA6pEeAnh03-EQ) #cursor#windsurf
 - [如何预防个人极端案事件](https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/)
 - [iText2KG：使用LLM构建增量知识图谱（KG）](https://mp.weixin.qq.com/s/0nTku_hyTLtQilCXGSd2AA) #kg#llm
