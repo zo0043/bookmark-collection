@@ -1,3 +1,4 @@
+- [扣子赚钱文章已5万阅读，大家对智能体看法](https://m.okjike.com/originalPosts/67374e2bf9e6130b88c8e7cf?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
 - [神级Prompt多到用不完，我用Claude将它们重构了一遍](https://mp.weixin.qq.com/s/JFghFwUud16fQfFsYBamvA) #prompt
 - [CopyCoder，不和Cursor 和 Windsurf 争主角，只做年度最强无敌的绿叶](https://mp.weixin.qq.com/s/gpXAurZSPA6pEeAnh03-EQ) #cursor#windsurf
 - [如何预防个人极端案事件](https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/)
