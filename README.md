@@ -1,3 +1,4 @@
+- [如何让 AI 写出好文案](https://mp.weixin.qq.com/s/2rhy199EKEfi0ZJQVy-hDg)
 - [一篇文章彻底搞明白既熟悉又陌生的状态机设计好业务系统的状态机](https://juejin.cn/post/7426194777118801947)
 - [2024面试必问:系统频繁Full GC，你有哪些优化思路？第一步分析gc日志](https://juejin.cn/post/7399273700103077938)
 - [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment) #系统设计
