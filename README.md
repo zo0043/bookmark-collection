@@ -1,3 +1,4 @@
+- [从文案到设计，我用通义版Artifacts生成了365张灵感日历](https://mp.weixin.qq.com/s/Ii7W1UKWH4yR2j3jKEdA3w) #prompt
 - [帮助人偷懒，可真受欢迎  最近正在做知识类的小红书账号](https://m.okjike.com/originalPosts/6746822ccc17b0c5d388a607?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
 - [如何让 AI 写出好文案](https://mp.weixin.qq.com/s/2rhy199EKEfi0ZJQVy-hDg)
 - [一篇文章彻底搞明白既熟悉又陌生的状态机设计好业务系统的状态机](https://juejin.cn/post/7426194777118801947)
