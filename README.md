@@ -1,3 +1,4 @@
+- [Java代码之美，从遵循样式规范开始](https://mp.weixin.qq.com/s/iHcCn1GiGTm6k9i1Zk7usA)
 - [1分钟的时间教会你写短视频爆款标题](https://m.okjike.com/originalPosts/6748983df0513f13162e43d1) #标题
 - [【爆款标题 prompt】 ](https://m.okjike.com/originalPosts/67489d50ba310e24e608ef98?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
 - [从文案到设计，我用通义版Artifacts生成了365张灵感日历](https://mp.weixin.qq.com/s/Ii7W1UKWH4yR2j3jKEdA3w) #prompt
