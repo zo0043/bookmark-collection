@@ -1,3 +1,4 @@
+- [《金钱心理学：财富、人性和幸福的永恒真相》 ](https://mp.weixin.qq.com/s/zBHWQR5rBonI-hmUMv9PHw) #read
 - [再读《纳瓦尔宝典》笔记](https://mp.weixin.qq.com/s/h_naPX13bMBnlJAEi8Sckw) #read
 - [投资的第一性原理](https://m.okjike.com/originalPosts/6738a7cc640e96d4a5c51979) #投资
 - [共振式](https://mp.weixin.qq.com/s/1o15-ynOYX3XJ1B18fcdcQ) #prompt
