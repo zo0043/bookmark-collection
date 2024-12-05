@@ -1,3 +1,4 @@
+- [投资的第一性原理](https://m.okjike.com/originalPosts/6738a7cc640e96d4a5c51979) #投资
 - [共振式](https://mp.weixin.qq.com/s/1o15-ynOYX3XJ1B18fcdcQ) #prompt
 - [Java代码之美，从遵循样式规范开始](https://mp.weixin.qq.com/s/iHcCn1GiGTm6k9i1Zk7usA)
 - [1分钟的时间教会你写短视频爆款标题](https://m.okjike.com/originalPosts/6748983df0513f13162e43d1) #标题
