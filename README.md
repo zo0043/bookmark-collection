@@ -1,3 +1,4 @@
+- [《百万美元周末》](https://mp.weixin.qq.com/s/vpd6VXjJjhLyEGbTbW0Huw) #read
 - [《小而美：持续盈利的经营法则》](https://mp.weixin.qq.com/s/wpB2myhltpibeC7EV_btqg) #read
 - [《same as  ever》](https://mp.weixin.qq.com/s/7WJcPGs1JfdHDQ50Y0_fzQ) #read
 - [《金钱心理学：财富、人性和幸福的永恒真相》 ](https://mp.weixin.qq.com/s/zBHWQR5rBonI-hmUMv9PHw) #read
