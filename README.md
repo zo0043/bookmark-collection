@@ -1,3 +1,4 @@
+- [《小而美：持续盈利的经营法则》](https://mp.weixin.qq.com/s/wpB2myhltpibeC7EV_btqg) #read
 - [《same as  ever》](https://mp.weixin.qq.com/s/7WJcPGs1JfdHDQ50Y0_fzQ) #read
 - [《金钱心理学：财富、人性和幸福的永恒真相》 ](https://mp.weixin.qq.com/s/zBHWQR5rBonI-hmUMv9PHw) #read
 - [再读《纳瓦尔宝典》笔记](https://mp.weixin.qq.com/s/h_naPX13bMBnlJAEi8Sckw) #read
