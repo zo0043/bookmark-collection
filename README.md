@@ -1,3 +1,4 @@
+- [深入架构原理与实践 | 深入高可用系统原理与设计](https://www.thebyte.com.cn/) #readlist
 - [English News In Levels - Daily News for ESL Learners at Every Level](https://englishnewsinlevels.com/) #english#learner
 - [A taxonomy of notes](https://nesslabs.com/taxonomy-of-notes) #notes
 - [重构问题，更清晰的思考和提问的5个方法](https://mp.weixin.qq.com/s/G0iNcwqones5NVfKpjFU3w) #prompt
