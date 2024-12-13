@@ -1,3 +1,4 @@
+- [English News In Levels - Daily News for ESL Learners at Every Level](https://englishnewsinlevels.com/) #english#learner
 - [A taxonomy of notes](https://nesslabs.com/taxonomy-of-notes) #notes
 - [重构问题，更清晰的思考和提问的5个方法](https://mp.weixin.qq.com/s/G0iNcwqones5NVfKpjFU3w) #prompt
 - [使用 AI Cursor 编程实现一个小产品 Chrome](https://m.okjike.com/originalPosts/67568a6894480c3f73631772) #chrome#ai
