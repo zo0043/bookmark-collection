@@ -1,3 +1,4 @@
+- [How Can I Be An AI Engineer? ](https://timkellogg.me/blog/2024/12/09/ai-engineer)
 - [深入架构原理与实践 | 深入高可用系统原理与设计](https://www.thebyte.com.cn/) #readlist
 - [English News In Levels - Daily News for ESL Learners at Every Level](https://englishnewsinlevels.com/) #english#learner
 - [A taxonomy of notes](https://nesslabs.com/taxonomy-of-notes) #notes
