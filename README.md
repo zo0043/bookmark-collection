@@ -1,3 +1,4 @@
+- [Project Odyssey全球AI电影大赛 第二季！](https://mp.weixin.qq.com/s/uThPo1pK5DCyXKtX9UoJoA)
 - [美团一面：Git 是如何工作的？](https://juejin.cn/post/7343509431714398249)
 - [见知录 Vol.001：最小化提示词原则](https://mp.weixin.qq.com/s/fss9tk1W_h3__qaEVdFHew)
 - [How Can I Be An AI Engineer? ](https://timkellogg.me/blog/2024/12/09/ai-engineer)
