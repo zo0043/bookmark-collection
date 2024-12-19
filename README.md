@@ -1,3 +1,4 @@
+- [述职汇报这样做，加分儿](https://mp.weixin.qq.com/s?__biz=MjM5NzkzOTY1NA==&mid=2653560461&idx=1&sn=022c60cad30a7d2aece3dbc58d2cc669&scene=21#wechat_redirect)
 - [基于大模型 + 知识库的 Code Review 实践](https://mp.weixin.qq.com/s/zUmt0W8nsu6_PHmLzSB2Og)
 - [资金视角看支付系统架构设计](https://mp.weixin.qq.com/s/ceMKpO_5b0DAJyu-DUDC0g)
 - [理解Go协程调度的本质](https://mp.weixin.qq.com/s/j9OpuIxXRWa9524oacGCzw)
