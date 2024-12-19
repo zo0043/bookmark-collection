@@ -1,3 +1,4 @@
+- [信息差：80%的管理问题都是信息问题](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491801&idx=1&sn=80d85bb1fd94528f1eee6bcd9bfec6ef&scene=21#wechat_redirect)
 - [货拉拉—实时对账系统（算盘平台）](https://mp.weixin.qq.com/s?__biz=MzI0MjIxNjE0OQ==&mid=2247494056&idx=1&sn=1f5d9487a284d08edb3a7bab05664d42&scene=21#wechat_redirect)
 - [从传销角度看管理：在座的各位都是垃圾！](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491763&idx=1&sn=f4e0f86c57a768fc86eb0c44f0207b1d&scene=21#wechat_redirect)
 - [#AI时代的设计系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjIyMTQzMg%3D%3D&action=getalbum&album_id=3560086923789860865&scene=21#wechat_redirect)
