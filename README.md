@@ -1,3 +1,4 @@
+- [从传销角度看管理：在座的各位都是垃圾！](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491763&idx=1&sn=f4e0f86c57a768fc86eb0c44f0207b1d&scene=21#wechat_redirect)
 - [#AI时代的设计系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjIyMTQzMg%3D%3D&action=getalbum&album_id=3560086923789860865&scene=21#wechat_redirect)
 - [从特朗普入主白宫展望2025经济趋势 - Insights、热点洞察 - 发现报告](https://www.fxbaogao.com/insights/detail/388)
 - [成长型思维：老板不关注，这件事还做不做？](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491875&idx=1&sn=93588567c1044f1b942920a3eb317296&scene=21#wechat_redirect)
