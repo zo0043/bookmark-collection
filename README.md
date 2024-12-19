@@ -1,3 +1,4 @@
+- [总结：跨境电商与供应链产品经理入门](https://mp.weixin.qq.com/s?__biz=MzI5NTEyODAyMA==&mid=2247483989&idx=1&sn=fb0bdab195a2a2519aefb8b94be7e546&scene=21#wechat_redirect)
 - [交易系统：订单模型设计详解](https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247489083&idx=1&sn=746d8a0885464fb35085ad1feeedb835&scene=21#wechat_redirect)
 - [述职汇报这样做，加分儿](https://mp.weixin.qq.com/s?__biz=MjM5NzkzOTY1NA==&mid=2653560461&idx=1&sn=022c60cad30a7d2aece3dbc58d2cc669&scene=21#wechat_redirect)
 - [基于大模型 + 知识库的 Code Review 实践](https://mp.weixin.qq.com/s/zUmt0W8nsu6_PHmLzSB2Og)
