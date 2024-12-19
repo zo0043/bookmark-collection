@@ -1,3 +1,4 @@
+- [#AI时代的设计系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjIyMTQzMg%3D%3D&action=getalbum&album_id=3560086923789860865&scene=21#wechat_redirect)
 - [从特朗普入主白宫展望2025经济趋势 - Insights、热点洞察 - 发现报告](https://www.fxbaogao.com/insights/detail/388)
 - [成长型思维：老板不关注，这件事还做不做？](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491875&idx=1&sn=93588567c1044f1b942920a3eb317296&scene=21#wechat_redirect)
 - [产品设计：如何用三流分析搞定复杂场景分析与产品设计](https://mp.weixin.qq.com/s?__biz=MzAxMTc2NTkwMQ==&mid=2247491371&idx=1&sn=8cbac1f72a401427350dd3a9c2fbfa8f&scene=21#wechat_redirect)
