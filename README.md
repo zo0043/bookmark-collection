@@ -1,3 +1,4 @@
+- [基于大模型 + 知识库的 Code Review 实践](https://mp.weixin.qq.com/s/zUmt0W8nsu6_PHmLzSB2Og)
 - [资金视角看支付系统架构设计](https://mp.weixin.qq.com/s/ceMKpO_5b0DAJyu-DUDC0g)
 - [理解Go协程调度的本质](https://mp.weixin.qq.com/s/j9OpuIxXRWa9524oacGCzw)
 - [Project Odyssey全球AI电影大赛 第二季！](https://mp.weixin.qq.com/s/uThPo1pK5DCyXKtX9UoJoA)
