@@ -1,3 +1,4 @@
+- [资金视角看支付系统架构设计](https://mp.weixin.qq.com/s/ceMKpO_5b0DAJyu-DUDC0g)
 - [理解Go协程调度的本质](https://mp.weixin.qq.com/s/j9OpuIxXRWa9524oacGCzw)
 - [Project Odyssey全球AI电影大赛 第二季！](https://mp.weixin.qq.com/s/uThPo1pK5DCyXKtX9UoJoA)
 - [美团一面：Git 是如何工作的？](https://juejin.cn/post/7343509431714398249)
