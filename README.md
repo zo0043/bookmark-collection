@@ -1,3 +1,4 @@
+- [成长型思维：老板不关注，这件事还做不做？](https://mp.weixin.qq.com/s?__biz=Mzg2MzcyODQ5MQ==&mid=2247491875&idx=1&sn=93588567c1044f1b942920a3eb317296&scene=21#wechat_redirect)
 - [产品设计：如何用三流分析搞定复杂场景分析与产品设计](https://mp.weixin.qq.com/s?__biz=MzAxMTc2NTkwMQ==&mid=2247491371&idx=1&sn=8cbac1f72a401427350dd3a9c2fbfa8f&scene=21#wechat_redirect)
 - [总结：跨境电商与供应链产品经理入门](https://mp.weixin.qq.com/s?__biz=MzI5NTEyODAyMA==&mid=2247483989&idx=1&sn=fb0bdab195a2a2519aefb8b94be7e546&scene=21#wechat_redirect)
 - [交易系统：订单模型设计详解](https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247489083&idx=1&sn=746d8a0885464fb35085ad1feeedb835&scene=21#wechat_redirect)
