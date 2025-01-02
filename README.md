@@ -1,3 +1,4 @@
+- [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Logging, the sensible defaults](https://gerlacdt.github.io/blog/posts/logging/)
 - [【📕分布式锁通关指南 01】从解决库存超卖开始加锁的初体验](https://juejin.cn/post/7452745711856730131)
