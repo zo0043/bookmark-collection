@@ -1,3 +1,4 @@
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Logging, the sensible defaults](https://gerlacdt.github.io/blog/posts/logging/)
 - [【📕分布式锁通关指南 01】从解决库存超卖开始加锁的初体验](https://juejin.cn/post/7452745711856730131)
 - [JVM内存Dump原理与在线分析实战](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247489242&idx=1&sn=31e5c4a54b89963c7de19275c9560453&chksm=c1624385f615ca93c1f16dedea34a0d64ec2ecf193099b5c20826a27dd295c4d6df5587ca782&scene=178&cur_album_id=2474766602014670848#rd)
