@@ -1,3 +1,4 @@
+- [How to Make LLMs Shut Up](https://www.greptile.com/blog/make-llms-shut-up)
 - [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Logging, the sensible defaults](https://gerlacdt.github.io/blog/posts/logging/)
