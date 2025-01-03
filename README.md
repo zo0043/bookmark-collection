@@ -1,3 +1,4 @@
+- [Refactoring English](https://refactoringenglish.com/)
 - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 - [Linux Context Switching Internals: Part 1 - Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
