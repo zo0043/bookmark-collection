@@ -1,3 +1,4 @@
+- [代码质量与技术债系列分享之一 - 如何做好 Code Review](https://mp.weixin.qq.com/s/KU0RH7sHAICqiXd9EqNZ_g)
 - [从原理出发 - 提示词如何影响大模型的输出](https://mp.weixin.qq.com/s/xYC6saH3PU6nJc9mzV5alw)
 - [How to Make LLMs Shut Up](https://www.greptile.com/blog/make-llms-shut-up)
 - [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/)
