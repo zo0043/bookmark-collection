@@ -1,3 +1,4 @@
+- [用户思维（来源：L先生写作课） - 幕布](https://mubu.com/explore/15HtKiizwrb)
 - [《思考的技术》内容精要 - 幕布](https://mubu.com/explore/7Z7cjGOpzhL)
 - [高效清单工作法：聪明人的无压时间管理手册 - 幕布](https://mubu.com/explore/r_MBmI5vCb)
 - [十年创业者，万字长文分享我是怎么招人的](https://mp.weixin.qq.com/s/1AR2VdQaVKfVWaj1Fvi_NA)
