@@ -1,3 +1,4 @@
+- [这个cursor技巧很香，建议收藏！ - 即刻App](https://m.okjike.com/originalPosts/677fdc20887087ba04758041)
 - [用户思维（来源：L先生写作课） - 幕布](https://mubu.com/explore/15HtKiizwrb)
 - [《思考的技术》内容精要 - 幕布](https://mubu.com/explore/7Z7cjGOpzhL)
 - [高效清单工作法：聪明人的无压时间管理手册 - 幕布](https://mubu.com/explore/r_MBmI5vCb)
