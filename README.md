@@ -1,3 +1,4 @@
+- [小伙伴们，听说很多人用cursor效率低？那是因为你还不会用 - 即刻App](https://m.okjike.com/originalPosts/6778b6bd2d8ef3d9a0a62533)
 - [这个cursor技巧很香，建议收藏！ - 即刻App](https://m.okjike.com/originalPosts/677fdc20887087ba04758041)
 - [用户思维（来源：L先生写作课） - 幕布](https://mubu.com/explore/15HtKiizwrb)
 - [《思考的技术》内容精要 - 幕布](https://mubu.com/explore/7Z7cjGOpzhL)
