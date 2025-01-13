@@ -1,3 +1,4 @@
+- [如何科学躺平](https://mp.weixin.qq.com/s/8B5NT2u7mVmuc0cu3Y_PRA) #weekly
 - [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/) #weekly#read
 - [小伙伴们，听说很多人用cursor效率低？那是因为你还不会用 - 即刻App](https://m.okjike.com/originalPosts/6778b6bd2d8ef3d9a0a62533)
 - [这个cursor技巧很香，建议收藏！ - 即刻App](https://m.okjike.com/originalPosts/677fdc20887087ba04758041)
