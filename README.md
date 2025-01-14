@@ -1,3 +1,4 @@
+- [从词性开始 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/grammar.html) #weekly#english
 - [小伙伴们，听说很多人用cursor效率低？那是因为你还不会用 - 即刻App](https://m.okjike.com/originalPosts/6778b6bd2d8ef3d9a0a62533?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #cursor#weekly
 - [Cursor SOP 技巧 、操作步骤、示例和文档生成，这方 - 即刻App](https://m.okjike.com/originalPosts/677a240fda39ffd685911bd7?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #cursor#weekly
 - [vol28.信息过载自救指南 - 独立开发沉思录](https://www.hackthinking.com/weekly/2025/01-12-vol28)
