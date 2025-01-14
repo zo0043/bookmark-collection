@@ -1,3 +1,4 @@
+- [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](https://juejin.cn/post/7441018038482599987)
 - [David A. Wheeler's Review of "Debugging" by David J. Agans](https://dwheeler.com/essays/debugging-agans.html) #weekly
 - [如何科学躺平](https://mp.weixin.qq.com/s/8B5NT2u7mVmuc0cu3Y_PRA) #weekly
 - [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/) #weekly#read
