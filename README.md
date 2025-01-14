@@ -1,3 +1,4 @@
+- [Cursor SOP 技巧 、操作步骤、示例和文档生成，这方 - 即刻App](https://m.okjike.com/originalPosts/677a240fda39ffd685911bd7?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D) #cursor#weekly
 - [vol28.信息过载自救指南 - 独立开发沉思录](https://www.hackthinking.com/weekly/2025/01-12-vol28)
 - [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](https://juejin.cn/post/7441018038482599987)
 - [David A. Wheeler's Review of "Debugging" by David J. Agans](https://dwheeler.com/essays/debugging-agans.html) #weekly
