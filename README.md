@@ -1,3 +1,4 @@
+- [如何认识某人 --- How to get to know someone](https://noorsiddiqui.com/how-to-get-to-know-someone/) #weekly
 - [张小吉分享了图片 - 即刻App](https://m.okjike.com/originalPosts/67866d7c2d8ef3d9a0943495?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
 - [「译」如何超越 98% 的人，成为学习高手？  一份实用的高 - 即刻App](https://m.okjike.com/originalPosts/677deb33acfb3146538de47d?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6MX0%3D)
 - [从词性开始 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/grammar.html) #weekly#english
