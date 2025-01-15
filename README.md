@@ -1,3 +1,4 @@
+- [1.3 当我们聊分布式事务，我们在聊什么](https://dolphin7.xyz/2021/06/19/1.3-Talk-About-Distribute-Transaction/)
 - [1.1 再谈CAP](https://dolphin7.xyz/2021/06/19/1.1-Talk-about-CAP-again/)
 - [《安德森个人生产力指南》，硅谷大佬的效率提升方法  马克·安 - 即刻App](https://m.okjike.com/originalPosts/67779828887087ba04e4bb95?s=ewoidSI6ICI1NmMxMWZiMjNiN2JjYjExMDA0NTFiNmUiCn0%3D) #weekly
 - [如何认识某人 --- How to get to know someone](https://noorsiddiqui.com/how-to-get-to-know-someone/) #weekly
