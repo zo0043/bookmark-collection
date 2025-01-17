@@ -1,3 +1,4 @@
+- [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html) #weekly
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) #week#weekly
 - [当我们聊消息队列，我们在聊什么](https://dolphin7.xyz/2022/01/01/Talk-About-Message-Queue/)
 - [关于复盘](https://dolphin7.xyz/2021/12/25/About-replay/)
