@@ -1,3 +1,4 @@
+- [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) #weekly
 - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html) #weekly
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) #week#weekly
 - [当我们聊消息队列，我们在聊什么](https://dolphin7.xyz/2022/01/01/Talk-About-Message-Queue/)
