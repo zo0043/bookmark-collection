@@ -1,3 +1,4 @@
+- [Agents](https://huyenchip.com/2025/01/07/agents.html) #weekly
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) #weekly
 - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html) #weekly
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) #week#weekly
