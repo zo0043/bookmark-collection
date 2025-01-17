@@ -1,3 +1,4 @@
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) #week#weekly
 - [当我们聊消息队列，我们在聊什么](https://dolphin7.xyz/2022/01/01/Talk-About-Message-Queue/)
 - [关于复盘](https://dolphin7.xyz/2021/12/25/About-replay/)
 - [1.3 当我们聊分布式事务，我们在聊什么](https://dolphin7.xyz/2021/06/19/1.3-Talk-About-Distribute-Transaction/)
