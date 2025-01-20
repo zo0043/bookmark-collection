@@ -1,3 +1,4 @@
+- [(76 封私信) 如何理解 Spring 当中的 Bean？ - 知乎](https://www.zhihu.com/question/47220912)
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) #weekly
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) #weekly
 - [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html) #weekly
