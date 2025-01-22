@@ -1,3 +1,4 @@
+- [简化代码模块设计：两种高效编程范式](https://mp.weixin.qq.com/s/X6FvYgvrIMy3P_MvNZtQsg) #weekly
 - [聊一聊分布式系统中的时间 – 四火的唠叨](https://www.raychase.net/7857) #weekly
 - [(76 封私信) 所谓“无锁数据结构”，是不是可以理解为本质上并不是“无锁”，而只是锁定粒度降到了最低？ - 知乎](https://www.zhihu.com/question/5659322941)
 - [(76 封私信) 如何理解 Spring 当中的 Bean？ - 知乎](https://www.zhihu.com/question/47220912)
