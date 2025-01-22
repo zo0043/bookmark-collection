@@ -1,3 +1,4 @@
+- [货拉拉用户CRM-DDD战术设计改造实践](https://mp.weixin.qq.com/s/dN5m9RQlIKZEu-ZvJhg2PA) #weekly
 - [聊聊Druid连接池的内部原理及推荐配置](https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ) #weekly
 - [简化代码模块设计：两种高效编程范式](https://mp.weixin.qq.com/s/X6FvYgvrIMy3P_MvNZtQsg) #weekly
 - [聊一聊分布式系统中的时间 – 四火的唠叨](https://www.raychase.net/7857) #weekly
