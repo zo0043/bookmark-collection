@@ -1,3 +1,4 @@
+- [R1 之后，提示词技巧的变与不变](https://mp.weixin.qq.com/s/-51tjTWRdi19sEBCQMe1sw) #weekly#提示词
 - [人人都能写英文博客  | Piglei](https://www.piglei.com/articles/everyone-can-write-eng-blog/) #weekly
 - [聊一下，技术债务治理](https://mp.weixin.qq.com/s/l3uj5r2zWuPoJRT0fqWOrA) #weekly
 - [架构实操：画好一张业务模型图](https://mp.weixin.qq.com/s/46eX_kLhNfNcPZxYG_LQmA) #weekly
