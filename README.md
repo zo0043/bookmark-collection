@@ -1,3 +1,4 @@
+- [R1 之后，提示词技巧的变与不变](https://mp.weixin.qq.com/s?__biz=MzA4MjM5MDI0Ng==&mid=2648508105&idx=1&sn=34fdbf92ece6da2774490507a8c6d571&chksm=87afdb40b0d852560acf101a2e807bd9fdf42787d7f7c1cae7ad1fd395137123c3c888834c56&scene=178&cur_album_id=3836075253209710592#rd) #weekly
 - [DeepSeek：好奇宝宝的免费一对一科学老师](https://mp.weixin.qq.com/s?__biz=MzA4MjM5MDI0Ng==&mid=2648508050&idx=1&sn=748633f3e5d22f9c20f5817048c05714&scene=21#wechat_redirect) #deepseek#weekly
 - [R1 之后，提示词技巧的变与不变](https://mp.weixin.qq.com/s/-51tjTWRdi19sEBCQMe1sw) #weekly#提示词
 - [聊一下，技术债务治理](https://mp.weixin.qq.com/s/l3uj5r2zWuPoJRT0fqWOrA) #weekly
