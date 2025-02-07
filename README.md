@@ -1,3 +1,4 @@
+- [我们每天在用的北京时间，你不好奇它是怎么来的？](https://daily.zhihu.com/story/9778557) #weekly
 - [08-Deepseek从入门到精通](https://janycode.github.io/2025/02/06/13_%E7%AC%AC%E4%B8%89%E6%96%B9/03_OpenAI/08-Deepseek%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/) #deepseek#weekly
 - [R1 之后，提示词技巧的变与不变](https://mp.weixin.qq.com/s?__biz=MzA4MjM5MDI0Ng==&mid=2648508105&idx=1&sn=34fdbf92ece6da2774490507a8c6d571&chksm=87afdb40b0d852560acf101a2e807bd9fdf42787d7f7c1cae7ad1fd395137123c3c888834c56&scene=178&cur_album_id=3836075253209710592#rd) #weekly
 - [DeepSeek：好奇宝宝的免费一对一科学老师](https://mp.weixin.qq.com/s?__biz=MzA4MjM5MDI0Ng==&mid=2648508050&idx=1&sn=748633f3e5d22f9c20f5817048c05714&scene=21#wechat_redirect) #deepseek#weekly
