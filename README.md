@@ -1,3 +1,4 @@
+- [系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview) #weekly
 - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html) #weekly
 - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/index.html) #weekly
 - [[问与答] 被裁员后，我在考虑做一个 AI 面试助手，有需求吗？ - V2EX](https://www.v2ex.com/t/1109190)
