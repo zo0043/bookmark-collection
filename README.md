@@ -1,3 +1,4 @@
+- [代码可视化平台](https://staying.fun/zh) #weekly#website
 - [Datawhale-学用AI，从此开始](https://www.datawhale.cn/home) #weekly
 - [Quant Wiki 中文量化百科](https://quant-wiki.com/) #weekly
 - [系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview) #weekly
