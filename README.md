@@ -1,3 +1,4 @@
+- [Quant Wiki 中文量化百科](https://quant-wiki.com/) #weekly
 - [系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview) #weekly
 - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html) #weekly
 - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/index.html) #weekly
