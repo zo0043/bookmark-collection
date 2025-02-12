@@ -1,3 +1,4 @@
+- [史诗级效率工具！藏师傅教你玩转，飞书多维表格+Deepseek组合](https://mp.weixin.qq.com/s/tmmtyT42RgIlwbDuD541CQ)
 - [Shein估值缩水近三成！](https://mp.weixin.qq.com/s?__biz=MzkwNTY1NzQ3MA%3D%3D&mid=2247508737&idx=1&sn=bba99a5a5eb1cfd1f56ee7570faeacdf&chksm=c113adf1314c185f4a2e9d819da4dec9b5014ca88b97611edd28e12fd95fa7382c6e9c706dfd&version=4.1.30.99529&platform=mac&nwr_flag=1&from=industrynews#wechat_redirect)
 - [代码可视化平台](https://staying.fun/zh) #weekly#website
 - [Datawhale-学用AI，从此开始](https://www.datawhale.cn/home) #weekly
