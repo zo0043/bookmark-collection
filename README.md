@@ -1,3 +1,4 @@
+- [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](https://github.com/potpie-ai/potpie) #weekly
 - [公众号爆文赛道:中老年人情感，一篇文章赚300块!  小白别看](https://mp.weixin.qq.com/s?__biz=MzkyNzYyNzk4NA==&mid=2247485757&idx=1&sn=7d433f428ef7036ffe857e5e2ee8c432&chksm=c3813c1db89fd9b5c300320400af00f1831e34be0fb6f7a1ecc9ab4debbef59bc6fed5525ed9#rd)
 - [公众号流量主项目，用这个方法，一天收益6554（附详细教程）](https://mp.weixin.qq.com/s?__biz=Mzg5NjIxNjg3NQ==&mid=2247497627&idx=1&sn=8e2eb43d74a01439717d7413a826fcf2&chksm=c19b4fa8e414e651766324d78474ab53ab1d34ab3a3698767f996facf24b01db1a3cfcf94794#rd)
 - [这个方法做公众号流量主，一天收入500＋，一个月赚了1w4（附详细教程）](https://mp.weixin.qq.com/s?__biz=MzkzNDYyODg2NA==&mid=2247487777&idx=1&sn=2b514adae8302880e7b5eb2d820e8b3c&chksm=c3e31e2aea034bb486ee9a7027a52716e19e25a28f7e2cdb63db48e7afe2e6aecde5ba85ce2c#rd)
