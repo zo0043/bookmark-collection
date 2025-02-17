@@ -1,3 +1,4 @@
+- [告别生硬翻译腔：构建 AI 驱动的多轮评审润色流程](https://mp.weixin.qq.com/s/5ulE6cqhyHDNhhDT08hOXA) #weekly
 - [Spring Pass | 总有一种方式能掌握Spring源码](https://tools.bmabk.com/?c=AnnotationConfigApplicationContext%2540pxZ1i0jh00p00317026YsG885g7c6) #weekly
 - [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](https://github.com/potpie-ai/potpie) #weekly
 - [公众号爆文赛道:中老年人情感，一篇文章赚300块!  小白别看](https://mp.weixin.qq.com/s?__biz=MzkyNzYyNzk4NA==&mid=2247485757&idx=1&sn=7d433f428ef7036ffe857e5e2ee8c432&chksm=c3813c1db89fd9b5c300320400af00f1831e34be0fb6f7a1ecc9ab4debbef59bc6fed5525ed9#rd)
