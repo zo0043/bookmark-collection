@@ -1,3 +1,4 @@
+- [Ray Dalio：谈DeepSeek、中美关系、债务周期、科技未来、财政风险、大国储备与对当今世界格局的看法](https://mp.weixin.qq.com/s/xEpGbMZnhkyDLsq5ijD8nA)
 - [告别生硬翻译腔：构建 AI 驱动的多轮评审润色流程](https://mp.weixin.qq.com/s/5ulE6cqhyHDNhhDT08hOXA) #weekly
 - [Spring Pass | 总有一种方式能掌握Spring源码](https://tools.bmabk.com/?c=AnnotationConfigApplicationContext%2540pxZ1i0jh00p00317026YsG885g7c6) #weekly
 - [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](https://github.com/potpie-ai/potpie) #weekly
