@@ -1,3 +1,4 @@
+- [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 - [个人「学习笔记」跟「实操复盘」的合集](https://m.okjike.com/originalPosts/6457af2bb99c001fe8ee29a3)
 - [「我们应该如何跟 AI 相处？」 事情的起因是这样，在刘润老 - 即刻App](https://m.okjike.com/originalPosts/671dacdaa8855e724b02b14e)
 - [Ray Dalio：谈DeepSeek、中美关系、债务周期、科技未来、财政风险、大国储备与对当今世界格局的看法](https://mp.weixin.qq.com/s/xEpGbMZnhkyDLsq5ijD8nA)
