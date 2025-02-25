@@ -1,3 +1,4 @@
+- [如何把你的 DeePseek-R1 微调为某个领域的专家？](https://juejin.cn/post/7473309339294695460) #weekly
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 - [个人「学习笔记」跟「实操复盘」的合集](https://m.okjike.com/originalPosts/6457af2bb99c001fe8ee29a3)
 - [「我们应该如何跟 AI 相处？」 事情的起因是这样，在刘润老 - 即刻App](https://m.okjike.com/originalPosts/671dacdaa8855e724b02b14e)
