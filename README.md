@@ -1,3 +1,4 @@
+- [大模型开发工作手册详细指南](https://mp.weixin.qq.com/s/2epsTaup1mvmtGT1MJXg4g)
 - [大模型Prompt技巧全解析](https://mp.weixin.qq.com/s/u-79q3R0l01oO-7WWUNF2A)
 - [如何把你的 DeePseek-R1 微调为某个领域的专家？](https://juejin.cn/post/7473309339294695460) #weekly
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
