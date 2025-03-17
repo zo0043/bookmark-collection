@@ -1,3 +1,4 @@
+- [It’s over 我终于搓出来了一个想要的软件 我只需要把 - 即刻App](https://m.okjike.com/originalPosts/67d022349dc1bff3d281dd63?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6Mn0%3D&utm_source=wechat_session)
 - [4 段超神提示词解锁 Claude 3.7 能力上限](https://mp.weixin.qq.com/s/wrXef-Ek7feg76rDGerKdA)
 - [4 段超神提示词解锁 Claude 3.7 能力上限](https://mp.weixin.qq.com/s/wrXef-Ek7feg76rDGerKdA)
 - [全球科技资本趋势报告---来自Redpoint](https://mp.weixin.qq.com/s/fJv23ysoAo4EpnaXONwxTg)
