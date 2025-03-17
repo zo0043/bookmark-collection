@@ -1,3 +1,4 @@
+- [全球科技资本趋势报告---来自Redpoint](https://mp.weixin.qq.com/s/fJv23ysoAo4EpnaXONwxTg)
 - [“顶级清醒，句句杀疯”](https://mp.weixin.qq.com/s/YlQ3sTnvClH6JuS3_9ttOg)
 - [AI工作流：小红书3分钟仿写100+条内容，小红书自动化2.0玩法教程来了](https://mp.weixin.qq.com/s/GFywr5AsHxBI-iS4fCkTOw)
 - [大模型开发工作手册详细指南](https://mp.weixin.qq.com/s/2epsTaup1mvmtGT1MJXg4g)
