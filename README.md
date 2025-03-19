@@ -1,3 +1,4 @@
+- [这个产品太强辣！教你用Yourware一键创建自己的 AI 编程作品集](https://mp.weixin.qq.com/s/A_qlDjkyzTPXAv01ijrw8g)
 - [🍀我计划把流量主的项目持续（以评论的形式）在这条动态下更新 - 即刻App](https://m.okjike.com/originalPosts/67d56618b9738edbe18567ed)
 - [It’s over 我终于搓出来了一个想要的软件 我只需要把 - 即刻App](https://m.okjike.com/originalPosts/67d022349dc1bff3d281dd63?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6Mn0%3D&utm_source=wechat_session)
 - [4 段超神提示词解锁 Claude 3.7 能力上限](https://mp.weixin.qq.com/s/wrXef-Ek7feg76rDGerKdA)
