@@ -1,3 +1,4 @@
+- [一人一个顶级AI提示词 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/498735)
 - [【教程】将 Graphviz 图表渲染提示词导入 Sider 插件，实现快速将文字转化为逻辑图、流程图 - 开发调优 - LINUX DO](https://linux.do/t/topic/440713)
 - [【提示词管理工具-油猴脚本】方便管理你的提示词文本内容 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/408100)
 - [这个产品太强辣！教你用Yourware一键创建自己的 AI 编程作品集](https://mp.weixin.qq.com/s/A_qlDjkyzTPXAv01ijrw8g)
