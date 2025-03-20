@@ -1,3 +1,4 @@
+- [【提示词管理工具-油猴脚本】方便管理你的提示词文本内容 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/408100)
 - [这个产品太强辣！教你用Yourware一键创建自己的 AI 编程作品集](https://mp.weixin.qq.com/s/A_qlDjkyzTPXAv01ijrw8g)
 - [🍀我计划把流量主的项目持续（以评论的形式）在这条动态下更新 - 即刻App](https://m.okjike.com/originalPosts/67d56618b9738edbe18567ed)
 - [It’s over 我终于搓出来了一个想要的软件 我只需要把 - 即刻App](https://m.okjike.com/originalPosts/67d022349dc1bff3d281dd63?s=eyJ1IjoiNTZjMTFmYjIzYjdiY2IxMTAwNDUxYjZlIiwiZCI6Mn0%3D&utm_source=wechat_session)
