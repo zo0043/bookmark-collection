@@ -1,3 +1,4 @@
+- [用deepseek直接生成图片的方法，一看就会（附提示词指令）](https://zhuanlan.zhihu.com/p/31658540550)
 - [How I've run major projects](https://www.benkuhn.net/pjm/)
 - [12 Daily Habits That Will Help You Simplify Your Life](https://bemorewithless.com/simplify-daily-habits/)
 - [免费代找学习资料啊 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/470639)
