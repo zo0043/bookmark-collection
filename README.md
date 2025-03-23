@@ -1,3 +1,4 @@
+- [AI免费接口 - 多模型免密钥 - by 思先生 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=9ac738ed-a4b2-4ded-933c-08dd5f710a8b&fromMyShare=true)
 - [用deepseek直接生成图片的方法，一看就会（附提示词指令）](https://zhuanlan.zhihu.com/p/31658540550)
 - [How I've run major projects](https://www.benkuhn.net/pjm/)
 - [12 Daily Habits That Will Help You Simplify Your Life](https://bemorewithless.com/simplify-daily-habits/)
