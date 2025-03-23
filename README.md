@@ -1,3 +1,4 @@
+- [12 Daily Habits That Will Help You Simplify Your Life](https://bemorewithless.com/simplify-daily-habits/)
 - [免费代找学习资料啊 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/470639)
 - [马士兵-AI大模型全链路实战（无密） - 资源荟萃 - LINUX DO](https://linux.do/t/topic/504930)
 - [一人一个顶级AI提示词 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/498735)
