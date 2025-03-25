@@ -1,3 +1,4 @@
+- [【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址](https://mp.weixin.qq.com/s?__biz=MzAwODIyOTQ4Mw==&mid=2649442418&idx=1&sn=136b9127aa26b6a40a5e27efac226dbd&scene=21#wechat_redirect)
 - [信息的AI可视化（1）：AI生成动态PPT的步骤分享](https://mp.weixin.qq.com/s?__biz=Mzg5NTg0MzYxNw==&mid=2247484699&idx=1&sn=ee632befac2cd5dbf68267a8808f549f&scene=21#wechat_redirect)
 - [一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！](https://mp.weixin.qq.com/s/OFCgFrXNQgIT2ho3V-4Oag)
 - [对话即服务：Spring Boot整合MCP让你的CRUD系统秒变AI助手引言 随着人工智能的飞速发展，大语言模型(LL - 掘金](https://juejin.cn/post/7483454392979570700)
