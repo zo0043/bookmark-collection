@@ -1,3 +1,4 @@
+- [对话即服务：Spring Boot整合MCP让你的CRUD系统秒变AI助手引言 随着人工智能的飞速发展，大语言模型(LL - 掘金](https://juejin.cn/post/7483454392979570700)
 - [Spring---循环依赖探讨在 Spring 中，若创建 Bean 发生解决循环依赖会通过三级缓存解决。 其实，在 S - 掘金](https://juejin.cn/post/7483329722496581658)
 - [AI产品经理进阶：万字深析大模型的MCP（下） – 人人都是产品经理](https://www.woshipm.com/ai/6190355.html)
 - [AI产品经理进阶：万字深析大模型的MCP（上） – 人人都是产品经理](https://www.woshipm.com/ai/6190336.html)
