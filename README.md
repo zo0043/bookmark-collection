@@ -1,3 +1,4 @@
+- [信息的AI可视化（1）：AI生成动态PPT的步骤分享](https://mp.weixin.qq.com/s?__biz=Mzg5NTg0MzYxNw==&mid=2247484699&idx=1&sn=ee632befac2cd5dbf68267a8808f549f&scene=21#wechat_redirect)
 - [一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！](https://mp.weixin.qq.com/s/OFCgFrXNQgIT2ho3V-4Oag)
 - [对话即服务：Spring Boot整合MCP让你的CRUD系统秒变AI助手引言 随着人工智能的飞速发展，大语言模型(LL - 掘金](https://juejin.cn/post/7483454392979570700)
 - [Spring---循环依赖探讨在 Spring 中，若创建 Bean 发生解决循环依赖会通过三级缓存解决。 其实，在 S - 掘金](https://juejin.cn/post/7483329722496581658)
