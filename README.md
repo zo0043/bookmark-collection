@@ -1,3 +1,4 @@
+- [AI产品经理进阶：万字深析大模型的MCP（下） – 人人都是产品经理](https://www.woshipm.com/ai/6190355.html)
 - [AI产品经理进阶：万字深析大模型的MCP（上） – 人人都是产品经理](https://www.woshipm.com/ai/6190336.html)
 - [这段Prompt提示词，生成精美的文章总结卡，轻松搞定知识可视化](https://mp.weixin.qq.com/s/jKFtBtP5MXB95GBBFrpF4w)
 - [26.偷偷赚美元？微信公众号改写+ Medium创收玩法曝光！ - 翔宇工作流](https://xiangyugongzuoliu.com/26-secretly-earn-dollars-wechat-medium-income/)
