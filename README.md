@@ -1,3 +1,4 @@
+- [【开源自荐】 StreamCap：支持40+平台的开源直播录制工具 · Issue #6393 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/6393)
 - [名人笔下的情话语录-优质句子，句子控精选推荐专辑](https://www.juzikong.com/collections/576bfa48-15fe-484c-b190-23aedcf75fa9)
 - [(20) 歸藏(guizang.ai) on X: "来了！一套提示词帮你实现小红书、公众号封面自由
 
