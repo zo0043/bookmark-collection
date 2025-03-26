@@ -1,3 +1,4 @@
+- [用第一性原理从零推导前端知识体系](https://www.believed-breadfruit.top/2025/02/08/2025-02-08-%E7%94%A8%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E4%BB%8E%E9%9B%B6%E6%8E%A8%E5%AF%BC%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/)
 - [想说爱你不容易：试论男女极限暧昧拉扯的语言学解释](https://mp.weixin.qq.com/s/H_cuQiQPHRXT9kusdvmaCA)
 - [【开源自荐】 StreamCap：支持40+平台的开源直播录制工具 · Issue #6393 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/6393)
 - [名人笔下的情话语录-优质句子，句子控精选推荐专辑](https://www.juzikong.com/collections/576bfa48-15fe-484c-b190-23aedcf75fa9)
