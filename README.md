@@ -1,3 +1,4 @@
+- [如何创造知识](https://www.believed-breadfruit.top/2025/02/01/2025-02-01-%E5%A6%82%E4%BD%95%E5%88%9B%E9%80%A0%E7%9F%A5%E8%AF%86/)
 - [用第一性原理从零推导前端知识体系](https://www.believed-breadfruit.top/2025/02/08/2025-02-08-%E7%94%A8%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E4%BB%8E%E9%9B%B6%E6%8E%A8%E5%AF%BC%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/)
 - [想说爱你不容易：试论男女极限暧昧拉扯的语言学解释](https://mp.weixin.qq.com/s/H_cuQiQPHRXT9kusdvmaCA)
 - [【开源自荐】 StreamCap：支持40+平台的开源直播录制工具 · Issue #6393 · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/6393)
