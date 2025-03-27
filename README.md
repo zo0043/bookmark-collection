@@ -1,3 +1,4 @@
+- [一些关于大语言模型 “提示词” 优化的经验谈](https://mp.weixin.qq.com/s/oeKp0nFPd3O5zAEgsJZ42w)
 - [百度网盘防雪崩架构实践](https://mp.weixin.qq.com/s/6AQgi0pg0nOnPaOlz67mdg)
 - [快手Java透明协程：实现零代码修改提升30%QPS](https://mp.weixin.qq.com/s/UqwcpQ2iqJoH0kKR_ZUT5w)
 - [⁤‍​‍‬‬‌‍​‌⁡⁡⁤⁤‌﻿‌​⁡​﻿​⁢⁤​​⁣⁡⁡⁤‍​﻿﻿​​⁡⁤‍‬‬⁤⁤⁡​⁣AI副业案例库 - 飞书云文档](https://x3xtqfjuve.feishu.cn/docx/HyWidcmnpo5eqKxxv2icpzh1nMg)
