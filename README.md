@@ -1,3 +1,4 @@
+- [百度网盘防雪崩架构实践](https://mp.weixin.qq.com/s/6AQgi0pg0nOnPaOlz67mdg)
 - [快手Java透明协程：实现零代码修改提升30%QPS](https://mp.weixin.qq.com/s/UqwcpQ2iqJoH0kKR_ZUT5w)
 - [⁤‍​‍‬‬‌‍​‌⁡⁡⁤⁤‌﻿‌​⁡​﻿​⁢⁤​​⁣⁡⁡⁤‍​﻿﻿​​⁡⁤‍‬‬⁤⁤⁡​⁣AI副业案例库 - 飞书云文档](https://x3xtqfjuve.feishu.cn/docx/HyWidcmnpo5eqKxxv2icpzh1nMg)
 - [Aider 平替 Cursor Composer 简明教程 - 文档共建 - LINUX DO](https://linux.do/t/topic/416641)
