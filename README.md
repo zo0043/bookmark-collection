@@ -1,3 +1,4 @@
+- [【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube](https://mp.weixin.qq.com/s/GtI2LZ0ltlTiVX4Ty7n9AQ)
 - [一些关于大语言模型 “提示词” 优化的经验谈](https://mp.weixin.qq.com/s/oeKp0nFPd3O5zAEgsJZ42w)
 - [百度网盘防雪崩架构实践](https://mp.weixin.qq.com/s/6AQgi0pg0nOnPaOlz67mdg)
 - [快手Java透明协程：实现零代码修改提升30%QPS](https://mp.weixin.qq.com/s/UqwcpQ2iqJoH0kKR_ZUT5w)
