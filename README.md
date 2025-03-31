@@ -1,3 +1,4 @@
+- [Building a search engine from scratch, in Rust: introduction](/posts/202503161800-search-engine-intro/)
 - [cursor 额度用完了？试试这个脚本，无限注册，手把手教程最近使用 cursor比较频繁，所以免费的 50 次很快就用 - 掘金](https://juejin.cn/post/7487118309344837683)
 - [【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube](https://mp.weixin.qq.com/s/GtI2LZ0ltlTiVX4Ty7n9AQ)
 - [一些关于大语言模型 “提示词” 优化的经验谈](https://mp.weixin.qq.com/s/oeKp0nFPd3O5zAEgsJZ42w)
