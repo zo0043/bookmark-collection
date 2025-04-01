@@ -1,3 +1,4 @@
+- [🌟《从一到二：基于Trae的多智能体合作Prompt自动生成迭代指南》#VibeCoding #Trae 刚接触LLM - 掘金](https://juejin.cn/post/7488013596523118601)
 - [程序员副业暴利指南：用Python+AI在小红书月入1W+的终极玩法凌晨两点，996下班的我又在GitHub摸鱼时发现了 - 掘金](https://juejin.cn/post/7487625903235121179)
 - [靠这3个方法，我的公众号1个月起号成功了！另外分享提高ecp - 即刻App](https://m.okjike.com/originalPosts/67eaa2219203b0686a9ee116)
 - [今日头条和公众号流量池：47万阅读量背后，如何用数据驱动内容 - 即刻App](https://m.okjike.com/originalPosts/67eb52b7dc6b6d485309bb81)
