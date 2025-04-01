@@ -1,3 +1,4 @@
+- [告别复杂：三行代码构建你的首个AI智能体自 Agent 概念诞生以来，经过不断发展，它早已不再是一个抽象的理论模型。 相 - 掘金](https://juejin.cn/post/7487863095869882405)
 - [🌟《从一到二：基于Trae的多智能体合作Prompt自动生成迭代指南》#VibeCoding #Trae 刚接触LLM - 掘金](https://juejin.cn/post/7488013596523118601)
 - [程序员副业暴利指南：用Python+AI在小红书月入1W+的终极玩法凌晨两点，996下班的我又在GitHub摸鱼时发现了 - 掘金](https://juejin.cn/post/7487625903235121179)
 - [靠这3个方法，我的公众号1个月起号成功了！另外分享提高ecp - 即刻App](https://m.okjike.com/originalPosts/67eaa2219203b0686a9ee116)
