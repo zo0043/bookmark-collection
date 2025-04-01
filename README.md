@@ -1,3 +1,4 @@
+- [用DeepSeek3分钟搞定专业海报，AI时代的设计新玩法](https://mp.weixin.qq.com/s?__biz=MzAxNjU5OTEwOQ==&mid=2247490606&idx=1&sn=bff3aa36733bf0801c2677fa7e778f44&chksm=9bf30d04ac8484120e948cafb9d3103b46d290a39bc84766a73c34e26c62f2540952686680b6&scene=178&cur_album_id=3873084697156435981#rd)
 - [Claude 神级提示词](https://mp.weixin.qq.com/s/FbPLWYtqY2URuuylEyJVKg)
 - [Building a search engine from scratch, in Rust: introduction](/posts/202503161800-search-engine-intro/)
 - [cursor 额度用完了？试试这个脚本，无限注册，手把手教程最近使用 cursor比较频繁，所以免费的 50 次很快就用 - 掘金](https://juejin.cn/post/7487118309344837683)
