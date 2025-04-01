@@ -1,3 +1,4 @@
+- [程序员副业暴利指南：用Python+AI在小红书月入1W+的终极玩法凌晨两点，996下班的我又在GitHub摸鱼时发现了 - 掘金](https://juejin.cn/post/7487625903235121179)
 - [靠这3个方法，我的公众号1个月起号成功了！另外分享提高ecp - 即刻App](https://m.okjike.com/originalPosts/67eaa2219203b0686a9ee116)
 - [今日头条和公众号流量池：47万阅读量背后，如何用数据驱动内容 - 即刻App](https://m.okjike.com/originalPosts/67eb52b7dc6b6d485309bb81)
 - [用DeepSeek3分钟搞定专业海报，AI时代的设计新玩法](https://mp.weixin.qq.com/s?__biz=MzAxNjU5OTEwOQ==&mid=2247490606&idx=1&sn=bff3aa36733bf0801c2677fa7e778f44&chksm=9bf30d04ac8484120e948cafb9d3103b46d290a39bc84766a73c34e26c62f2540952686680b6&scene=178&cur_album_id=3873084697156435981#rd)
