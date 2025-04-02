@@ -1,3 +1,4 @@
+- [6000字+6个案例：写给普通人的MCP入门指南](https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog)
 - [📖《数字人开发手册：从建模到情感交互全链路》  章节名称 核心内容 🔧 技术亮点 ☁️ 腾讯云方案 建模篇 高精度数 - 掘金](https://juejin.cn/post/7487863095868669989)
 - [告别复杂：三行代码构建你的首个AI智能体自 Agent 概念诞生以来，经过不断发展，它早已不再是一个抽象的理论模型。 相 - 掘金](https://juejin.cn/post/7487863095869882405)
 - [🌟《从一到二：基于Trae的多智能体合作Prompt自动生成迭代指南》#VibeCoding #Trae 刚接触LLM - 掘金](https://juejin.cn/post/7488013596523118601)
