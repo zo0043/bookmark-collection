@@ -1,3 +1,4 @@
+- [一文搞懂“全球支付清算”基础原理，建立国际支付底层认知](https://mp.weixin.qq.com/s/ci5dfpOKdYKPge02Jpzkdg)
 - [一文拆解中国清算体系，升维你的认知](https://mp.weixin.qq.com/s?__biz=MjM5MDIwNjAxMA==&mid=2247487991&idx=1&sn=c1da403edd196dbae27fb53009528ab7&chksm=a64900a2913e89b41c7afce40df05f64b8f5baf34faeb84f6081d3c72714597c353335f7dab3&cur_album_id=3779845075530678274&scene=189#wechat_redirect)
 - [一张图拆解三方清算体系](https://mp.weixin.qq.com/s/aLoGU8jY_w2bA7WvN22bZw)
 - [万字实战复盘，普通人电商创业，从0到月销300单全流程关键实操讲解](https://mp.weixin.qq.com/s/IdWJxQhWoS4gMiVa0M4UwQ)
