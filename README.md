@@ -1,3 +1,4 @@
+- [聚合支付那些事儿：模式、代理商、设备管理、商户进件](https://mp.weixin.qq.com/s/rYfxOaEe-LJJjkWMu2Cakw)
 - [堪比模型迭代的万能文生图提示框架，人人都能成为专业 AI 设计师](https://mp.weixin.qq.com/s/_9wxyFJ39JrzvF7b2hZJFA)
 - [再分享一套我写的提示词，进化到V9版本的 到底什么是AI味啊 - 即刻App](https://m.okjike.com/originalPosts/67ed4e8e812ec4d5891d5228)
 - [6000字+6个案例：写给普通人的MCP入门指南](https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog)
