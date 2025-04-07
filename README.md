@@ -1,3 +1,4 @@
+- [堪比模型迭代的万能文生图提示框架，人人都能成为专业 AI 设计师](https://mp.weixin.qq.com/s/_9wxyFJ39JrzvF7b2hZJFA)
 - [再分享一套我写的提示词，进化到V9版本的 到底什么是AI味啊 - 即刻App](https://m.okjike.com/originalPosts/67ed4e8e812ec4d5891d5228)
 - [6000字+6个案例：写给普通人的MCP入门指南](https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog)
 - [📖《数字人开发手册：从建模到情感交互全链路》  章节名称 核心内容 🔧 技术亮点 ☁️ 腾讯云方案 建模篇 高精度数 - 掘金](https://juejin.cn/post/7487863095868669989)
