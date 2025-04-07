@@ -1,3 +1,4 @@
+- [多模态自动布局技术发展及其在淘内内容场的应用](https://mp.weixin.qq.com/s/TqpamSCg922cqECDWJpZiQ)
 - [三图两表：让你成为产品专家](https://mp.weixin.qq.com/s?__biz=MjM5MDIwNjAxMA==&mid=2247487962&idx=1&sn=14c140aa17726529f38ce934c16195c2&chksm=a649008f913e89990465eeb7e192da1894e702d5bd8d825766440550bf4200c882883e70e216&scene=178&cur_album_id=3779845075530678274#rd)
 - [88张图，把支付清结算串起来](https://mp.weixin.qq.com/s?__biz=Mzg2MTg1NTM4NA==&mid=2247502329&idx=1&sn=38b85ae0de56df071aecbb38165e570f&scene=21#wechat_redirect)
 - [一文搞懂“全球支付清算”基础原理，建立国际支付底层认知](https://mp.weixin.qq.com/s/ci5dfpOKdYKPge02Jpzkdg)
