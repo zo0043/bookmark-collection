@@ -1,3 +1,4 @@
+- [RAG技术演进的四大核心命题](https://mp.weixin.qq.com/s/7VVWAtbDX4CM4seTB_xHmw)
 - [支付系统设计入门：核心账户体系架构](https://mp.weixin.qq.com/s/NpPTyA-oyeBFU9mQfK9Rvg)
 - [大模型应用开发入门分享](https://mp.weixin.qq.com/s/NEQEPBQazzzTIuT76sNMDw)
 - [别管行不行 , 先立个Flag这是一篇目录型文章 , 目的是总结一直以来发布的笔记 , 用于快速索引 ! 同时后续会逐渐 - 掘金](https://juejin.cn/post/6941642435189538824)
