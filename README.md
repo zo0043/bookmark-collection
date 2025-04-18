@@ -1,3 +1,4 @@
+- [快速上手：实现你的第一个 MCP Client](https://zhuanlan.zhihu.com/p/21166726702)
 - [Python 从0到1构建MCP Server & Client_python mcp-CSDN博客](https://blog.csdn.net/GOBinCC/article/details/146290820)
 - [货拉拉-营销平台流程画布建设](https://mp.weixin.qq.com/s/BEfV3N_dtvPsO6P6tqrTTQ)
 - [大模型推理框架RTP-LLM P-D分离之道：从思考到实战](https://mp.weixin.qq.com/s/4FVw5paNSUCeQEUp9hoJ5Q)
