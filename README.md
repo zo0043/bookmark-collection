@@ -1,3 +1,4 @@
+- [深度理解：提示词工程](https://mp.weixin.qq.com/s/3hY4oDROOrtlYWd0nSpiEw)
 - [视频号AI数字人口播带货训练营：第一天笔记 – 叶赛文](http://yesaiwen.com/wechat-video-ai-camp-daily-1/)
 - [快速上手：实现你的第一个 MCP Client](https://zhuanlan.zhihu.com/p/21166726702)
 - [Python 从0到1构建MCP Server & Client_python mcp-CSDN博客](https://blog.csdn.net/GOBinCC/article/details/146290820)
