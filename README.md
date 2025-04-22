@@ -1,3 +1,8 @@
+- [(3) meng shao on X: "如何有效地使用Cursor AI IDE 的十二个关键方法 - 来自 Cursor 设计负责人 @ryolu_
+
+1. 设置明确的项目规则：在开始前设置5-10条清晰的规则，让 Cursor 了解项目结构和限制条件。可以使用 "/generate rules" 命令为现有代码库生成规则。
+
+2. https://t.co/XkD344Xqe4" / X](https://x.com/shao__meng/status/1914469440500195453)
 - [体验后惊呼牛逼！字节AI编程工具Trae更新重磅功能，一句话调用多MCP完成超复杂工作流，完全免费！](https://mp.weixin.qq.com/s/m8AB9qsr45_jS3mzlQybag)
 - [深度理解：提示词工程](https://mp.weixin.qq.com/s/3hY4oDROOrtlYWd0nSpiEw)
 - [视频号AI数字人口播带货训练营：第一天笔记 – 叶赛文](http://yesaiwen.com/wechat-video-ai-camp-daily-1/)
