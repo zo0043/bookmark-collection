@@ -1,3 +1,4 @@
+- [自媒体爆款标题指南：18种公众号文章标题写法，建议收藏！](https://blog.axiaoxin.com/post/article-title-guide/)
 - [GPTs写公众号爆文 5分钟一篇](https://mp.weixin.qq.com/s/eBAdPOexIetpge4koP80Hw)
 - [只需要这一招，所有的公众号作者都是你的顾问](https://mp.weixin.qq.com/s/VLLLBwbsww6xjwU9TP-Ruw)
 - [微信公众号爆款文章生成器GPTs：5分钟写一篇热门文章案例拆解 - 少数派](https://sspai.com/post/85098)
