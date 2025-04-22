@@ -1,3 +1,4 @@
+- [体验后惊呼牛逼！字节AI编程工具Trae更新重磅功能，一句话调用多MCP完成超复杂工作流，完全免费！](https://mp.weixin.qq.com/s/m8AB9qsr45_jS3mzlQybag)
 - [深度理解：提示词工程](https://mp.weixin.qq.com/s/3hY4oDROOrtlYWd0nSpiEw)
 - [视频号AI数字人口播带货训练营：第一天笔记 – 叶赛文](http://yesaiwen.com/wechat-video-ai-camp-daily-1/)
 - [快速上手：实现你的第一个 MCP Client](https://zhuanlan.zhihu.com/p/21166726702)
