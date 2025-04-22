@@ -1,3 +1,4 @@
+- [只需要这一招，所有的公众号作者都是你的顾问](https://mp.weixin.qq.com/s/VLLLBwbsww6xjwU9TP-Ruw)
 - [微信公众号爆款文章生成器GPTs：5分钟写一篇热门文章案例拆解 - 少数派](https://sspai.com/post/85098)
 - [Frad on X: "之前答应的 ChatWise 系统指令结合 MCP 服务器的工作流教程，最近终于有时间开始弄。
 
