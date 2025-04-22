@@ -1,3 +1,4 @@
+- [你一定要知道的文学分析写作技巧！](https://www.dawen.ink/news/view/1567)
 - [情感类大号是怎样写标题的？](https://www.jianshu.com/p/2aa88996d068)
 - [如何打造爆款文章标题？把握1个公式，9个套路，5个细节](https://www.digitaling.com/articles/893297.html)
 - [自媒体爆款标题指南：18种公众号文章标题写法，建议收藏！](https://blog.axiaoxin.com/post/article-title-guide/)
