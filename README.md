@@ -1,3 +1,4 @@
+- [情感类大号是怎样写标题的？](https://www.jianshu.com/p/2aa88996d068)
 - [如何打造爆款文章标题？把握1个公式，9个套路，5个细节](https://www.digitaling.com/articles/893297.html)
 - [自媒体爆款标题指南：18种公众号文章标题写法，建议收藏！](https://blog.axiaoxin.com/post/article-title-guide/)
 - [GPTs写公众号爆文 5分钟一篇](https://mp.weixin.qq.com/s/eBAdPOexIetpge4koP80Hw)
