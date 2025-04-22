@@ -1,3 +1,11 @@
+- [Frad on X: "之前答应的 ChatWise 系统指令结合 MCP 服务器的工作流教程，最近终于有时间开始弄。
+
+先给大家我的 database 指令，主要是简单的 RAG 和数据同步，使用如下 3 个 MCP 服务器：
+- mcp-pinecone 作为 database
+- exa-mcp-server 作为 exa
+- mcp-server-time 作为 time
+
+我的实践用 &lt;可用工具&gt; 和 https://t.co/ODOQ6V4fgo" / X](https://x.com/FradSer/status/1914595873759355369)
 - [(3) meng shao on X: "如何有效地使用Cursor AI IDE 的十二个关键方法 - 来自 Cursor 设计负责人 @ryolu_
 
 1. 设置明确的项目规则：在开始前设置5-10条清晰的规则，让 Cursor 了解项目结构和限制条件。可以使用 "/generate rules" 命令为现有代码库生成规则。
