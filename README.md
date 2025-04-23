@@ -1,3 +1,4 @@
+- [MCP 实践：基于 MCP 架构实现知识库答疑系统](https://mp.weixin.qq.com/s/ETmbEAE7lNligcM_A_GF8A)
 - [你一定要知道的文学分析写作技巧！](https://www.dawen.ink/news/view/1567)
 - [情感类大号是怎样写标题的？](https://www.jianshu.com/p/2aa88996d068)
 - [如何打造爆款文章标题？把握1个公式，9个套路，5个细节](https://www.digitaling.com/articles/893297.html)
