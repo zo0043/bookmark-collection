@@ -1,3 +1,4 @@
+- [Writing Cursor Rules with a Cursor Rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 - [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](https://www.polarsparc.com/xhtml/MCP.html)
 - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 - [“今夜，我比暴雨更滂沱”](https://mp.weixin.qq.com/s/7KGasm1Q9nuwijb-izrukw)
