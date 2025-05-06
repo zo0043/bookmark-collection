@@ -1,3 +1,4 @@
+- [如何把新闻热点改编成短篇小说？三步打造爆款故事](https://mp.weixin.qq.com/s?__biz=MzA5MzcyMzAwMA==&mid=2247493915&idx=1&sn=74da1cf1bb41fad3d71ced8e0a41417e&chksm=905b290ca72ca01ab6ad0d1ea50cdbf27c296b2c951e3d35875f68fa7f597d242099c33edb93&cur_album_id=3922779078897434625&scene=189#wechat_redirect)
 - [😮😮😮 我写出了被 Threejs 官推转发的项目🚀✨？！叫你如何构建一个属于自己的 3D 个人简历，这篇文章会 - 掘金](https://juejin.cn/post/7498914140166799397)
 - [Writing Cursor Rules with a Cursor Rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 - [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](https://www.polarsparc.com/xhtml/MCP.html)
