@@ -1,3 +1,4 @@
+- [😮😮😮 我写出了被 Threejs 官推转发的项目🚀✨？！叫你如何构建一个属于自己的 3D 个人简历，这篇文章会 - 掘金](https://juejin.cn/post/7498914140166799397)
 - [Writing Cursor Rules with a Cursor Rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 - [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](https://www.polarsparc.com/xhtml/MCP.html)
 - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
