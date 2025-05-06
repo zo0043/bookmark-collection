@@ -1,3 +1,4 @@
+- [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](https://www.polarsparc.com/xhtml/MCP.html)
 - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 - [“今夜，我比暴雨更滂沱”](https://mp.weixin.qq.com/s/7KGasm1Q9nuwijb-izrukw)
 - [MCP 实践：基于 MCP 架构实现知识库答疑系统](https://mp.weixin.qq.com/s/ETmbEAE7lNligcM_A_GF8A)
