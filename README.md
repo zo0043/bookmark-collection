@@ -1,3 +1,4 @@
+- [7 段私藏提示词测谷歌Gemini最新版，到底是真能打，还是仅参数牛逼？](https://mp.weixin.qq.com/s/nNH2cltXDq5Ev4GTN2gfbg)
 - [小白 3 分钟学会 AI 写歌，最强 AI 音乐生成工具 Suno 实战教程，附完整教程手册](https://mp.weixin.qq.com/s/mVguKMvXKMC85Ec2YP2sew)
 - [Everything Wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
 - [如何把新闻热点改编成短篇小说？三步打造爆款故事](https://mp.weixin.qq.com/s?__biz=MzA5MzcyMzAwMA==&mid=2247493915&idx=1&sn=74da1cf1bb41fad3d71ced8e0a41417e&chksm=905b290ca72ca01ab6ad0d1ea50cdbf27c296b2c951e3d35875f68fa7f597d242099c33edb93&cur_album_id=3922779078897434625&scene=189#wechat_redirect)
