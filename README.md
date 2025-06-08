@@ -1,3 +1,5 @@
+- [OpenAI、谷歌和Anthropic刚刚发布了关于以下内容的指南：
+](https://x.com/FinanceYF5/status/1931344117931356206)
 - [六度空间诞生记：关于递推式AI游戏的思考与实践](https://mp.weixin.qq.com/s/8mHabB1ZF9b-7jcUgApBqg)
 - [EC Elliot on X: "总结下载视频的方式 - 总有一个适合你 - 亲测可用](https://x.com/elliotchen100/status/1916284572872151111)
 - [回顾《Scaling Memcache at Facebook》论文 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/871)
