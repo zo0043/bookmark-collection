@@ -1,3 +1,4 @@
+- [EC Elliot on X: "总结下载视频的方式 - 总有一个适合你 - 亲测可用](https://x.com/elliotchen100/status/1916284572872151111)
 - [回顾《Scaling Memcache at Facebook》论文 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/871)
 - [公众号阅读量从5到2万+，我用的方法很简单！全在这里了！](https://mp.weixin.qq.com/s/p8zPW7UAZKZhI5NzUCb2pQ)
 - [太爆了！用AI做拟人化访谈书单号，15条作品涨粉13W，全平台爆火，免费教程快来抄！](https://mp.weixin.qq.com/s/k1ew7h_VABakk_oI_fsy2A)
