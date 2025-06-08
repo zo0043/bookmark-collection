@@ -1,3 +1,5 @@
+- [搭了一个自动撰写AI爆款文章的智能体，还能配图。
+](https://x.com/sitinme/status/1931203967012204834)
 - [(21) 用AI搞钱的古同学 on X: "其实你根本不会用Boss直聘！ ](https://x.com/MemeInform/status/1931395500164690144)
 - [OpenAI、谷歌和Anthropic刚刚发布了关于以下内容的指南：
 ](https://x.com/FinanceYF5/status/1931344117931356206)
