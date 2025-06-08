@@ -1,3 +1,4 @@
+- [(21) 用AI搞钱的古同学 on X: "其实你根本不会用Boss直聘！ ](https://x.com/MemeInform/status/1931395500164690144)
 - [OpenAI、谷歌和Anthropic刚刚发布了关于以下内容的指南：
 ](https://x.com/FinanceYF5/status/1931344117931356206)
 - [六度空间诞生记：关于递推式AI游戏的思考与实践](https://mp.weixin.qq.com/s/8mHabB1ZF9b-7jcUgApBqg)
