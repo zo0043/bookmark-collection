@@ -1,3 +1,4 @@
+- [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 - [一人千面，永不降智！手把手教你如何通过Mihomo强大的覆写功能，灵活配置代理与链式代理，制订相应的分流规则，解决GPT降智，无限试用Cursor - 开发调优 - LINUX DO](https://linux.do/t/topic/710502)
 - [搭了一个自动撰写AI爆款文章的智能体，还能配图。
 ](https://x.com/sitinme/status/1931203967012204834)
