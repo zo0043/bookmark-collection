@@ -1,3 +1,4 @@
+- [基于 Spring AI 的 MCP 客户端/服务端架构指南](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247550127&idx=1&sn=32ae3eaa10eece9643344fc4a55273e0&poc_token=HINQRmijMqYef0ASduiQX8WAyV6nlakVmIrkUHcR)
 - [分享一下 Augment 无限邮箱、插件重置和 MCP 增强 - 开发调优 - LINUX DO](https://linux.do/t/topic/710378)
 - [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 - [一人千面，永不降智！手把手教你如何通过Mihomo强大的覆写功能，灵活配置代理与链式代理，制订相应的分流规则，解决GPT降智，无限试用Cursor - 开发调优 - LINUX DO](https://linux.do/t/topic/710502)
