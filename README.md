@@ -1,3 +1,4 @@
+- [Liblib AI上线Kontext，门槛大幅降低！藏师傅手把手教你用它解决图片问题](https://mp.weixin.qq.com/s/5M35Fr7pU1nzIc3Cm3_2Kg)
 - [基于 Spring AI 的 MCP 客户端/服务端架构指南](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247550127&idx=1&sn=32ae3eaa10eece9643344fc4a55273e0&poc_token=HINQRmijMqYef0ASduiQX8WAyV6nlakVmIrkUHcR)
 - [分享一下 Augment 无限邮箱、插件重置和 MCP 增强 - 开发调优 - LINUX DO](https://linux.do/t/topic/710378)
 - [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
