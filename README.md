@@ -1,3 +1,4 @@
+- [浅聊一下，大模型应用架构 | 工程研发的算法修养系列（二）](https://mp.weixin.qq.com/s/lHwl_VTJvmsCEIrIhE-gXQ)
 - [万字总结：腾讯会议后台告警治理实践——如何才能避免“事后诸葛亮”](https://mp.weixin.qq.com/s/JLoUGJRrWa4RY5YTuTB5Gw)
 - [一文带你 "看见" MCP 的过程，彻底理解 MCP 的概念](https://mp.weixin.qq.com/s/UfzmzJ3zTOQ45ppRy5D6kA)
 - [从模型原理到代码实践，深入浅出上手Transformer，叩开大模型世界的大门](https://mp.weixin.qq.com/s/8hapOXkxcDZZHvcS_vDodQ)
