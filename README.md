@@ -1,3 +1,4 @@
+- [觉得 MCP 太消耗 token？ 不妨试试这款插件，让你使用网页版本大模型也可以使用 MCP！ - 资源荟萃 - LINUX DO](https://linux.do/t/topic/717504)
 - [小红书 MCP 工具包，让 AI 帮你自动发布笔记！ - 开发调优 - LINUX DO](https://linux.do/t/topic/715161)
 - [浅聊一下，大模型的前世今生 | 工程研发的算法修养系列（一）](https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247573836&idx=1&sn=38bc65332e0908d9bbe9dd3f221bf8af&chksm=fc28cfebcb5f46fdb370c5a3cca858e2c9bf7e45cf97d34c7fc01c0d22309d81d3e488beaea1&cur_album_id=3618429523131367426&scene=189#wechat_redirect)
 - [浅聊一下，大模型应用架构 | 工程研发的算法修养系列（二）](https://mp.weixin.qq.com/s/lHwl_VTJvmsCEIrIhE-gXQ)
