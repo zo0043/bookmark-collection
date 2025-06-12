@@ -1,3 +1,4 @@
+- [觉得 MCP 太消耗 token？ 不妨试试这款插件，让你使用网页版本大模型也可以使用 MCP！ - 资源荟萃 - LINUX DO](https://linux.do/t/topic/717504)
 - [贡献一份 Cursor 粗暴高效的 Rules！ - 搞七捻三 - LINUX DO](https://linux.do/t/topic/716515)
 - [觉得 MCP 太消耗 token？ 不妨试试这款插件，让你使用网页版本大模型也可以使用 MCP！ - 资源荟萃 - LINUX DO](https://linux.do/t/topic/717504)
 - [小红书 MCP 工具包，让 AI 帮你自动发布笔记！ - 开发调优 - LINUX DO](https://linux.do/t/topic/715161)
