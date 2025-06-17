@@ -1,3 +1,4 @@
+- [n8n+rsshub=监控“anything” - 开发调优 - LINUX DO](https://linux.do/t/topic/722448/2)
 - [2025 5月更新｜《AI智能体Coze实战课》全套课程+最新更新包｜Agent+自动化+商业闭环打造 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/725900)
 - [抖音无水印下载服务，支持deno,cf worker部署 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/723100)
 - [提升思考能力的MCP：Code Reasoning MCP Server ，sequential think的加强版 - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/724926)
