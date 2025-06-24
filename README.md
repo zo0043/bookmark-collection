@@ -1,3 +1,4 @@
+- [加一个JVM参数，让系统可用率从95%提高到99.995%](https://mp.weixin.qq.com/s/CSTbvMk9_LcFXFJRD45RlA)
 - [一致性框架：供应链分布式事务问题解决方案｜得物技术](https://mp.weixin.qq.com/s/TAOF0y_QxJyIy8pbkjwFLw)
 - [达尔文派单局：遗传算法实现自动派单](https://mp.weixin.qq.com/s/YN2ayiTWbairCf2MlcnjSQ)
 - [用Cursor开启JAVA+AI生涯](https://mp.weixin.qq.com/s/x6WJnpkk5vlQLW-_SLn3eg)
