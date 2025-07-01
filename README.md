@@ -1,3 +1,4 @@
+- [​7天从入门到精通​​：Prompt Engineering超速通指南深入解析提示工程：从基础原理到工业级实践的黄金指南 - 掘金](https://juejin.cn/post/7519131837362389027)
 - [Github 短用户名？让我康康到底有多短！ - 开发调优 - LINUX DO](https://linux.do/t/topic/675178)
 - [加一个JVM参数，让系统可用率从95%提高到99.995%](https://mp.weixin.qq.com/s/CSTbvMk9_LcFXFJRD45RlA)
 - [一致性框架：供应链分布式事务问题解决方案｜得物技术](https://mp.weixin.qq.com/s/TAOF0y_QxJyIy8pbkjwFLw)
