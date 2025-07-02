@@ -1,3 +1,4 @@
+- [免费构建个人博客：Hexo + GitHub + Cloudflare - 开发调优 - LINUX DO](https://linux.do/t/topic/298986)
 - [平平无奇- TBAI_claude code 实现自由 - 福利羊毛 - LINUX DO](https://linux.do/t/topic/761806/1)
 - [【Prompt】突发奇想让 AI 帮我梳理杂乱无章的知识 - 开发调优 - LINUX DO](https://linux.do/t/topic/759942)
 - [​7天从入门到精通​​：Prompt Engineering超速通指南深入解析提示工程：从基础原理到工业级实践的黄金指南 - 掘金](https://juejin.cn/post/7519131837362389027)
