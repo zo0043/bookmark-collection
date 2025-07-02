@@ -1,3 +1,4 @@
+- [【Prompt】突发奇想让 AI 帮我梳理杂乱无章的知识 - 开发调优 - LINUX DO](https://linux.do/t/topic/759942)
 - [​7天从入门到精通​​：Prompt Engineering超速通指南深入解析提示工程：从基础原理到工业级实践的黄金指南 - 掘金](https://juejin.cn/post/7519131837362389027)
 - [Github 短用户名？让我康康到底有多短！ - 开发调优 - LINUX DO](https://linux.do/t/topic/675178)
 - [加一个JVM参数，让系统可用率从95%提高到99.995%](https://mp.weixin.qq.com/s/CSTbvMk9_LcFXFJRD45RlA)
