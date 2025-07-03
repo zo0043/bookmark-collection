@@ -1,3 +1,4 @@
+- [[优化]写给小白的自建2$/月的US原生家宽ip/HK节点解决方案 - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/482315)
 - [写给小白的自建科学上网教程：从技术原理到实践操作 - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/520757)
 - [免费构建个人博客：Hexo + GitHub + Cloudflare - 开发调优 - LINUX DO](https://linux.do/t/topic/298986)
 - [平平无奇- TBAI_claude code 实现自由 - 福利羊毛 - LINUX DO](https://linux.do/t/topic/761806/1)
