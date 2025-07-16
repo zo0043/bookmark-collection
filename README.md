@@ -1,3 +1,4 @@
+- [闲鱼上新AI监控+通知的完整版来了! - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/791851/1)
 - [【Cursor】Cursor 全局通用规则Rules V4.9.1 ：多维思考+五大规则模式 + MCP工具集 让你码到飞起 - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/686188)
 - [[优化]写给小白的自建2$/月的US原生家宽ip/HK节点解决方案 - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/482315)
 - [写给小白的自建科学上网教程：从技术原理到实践操作 - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/520757)
