@@ -1,3 +1,4 @@
+- [代码“蝴蝶效应”终结者：AI Review + AST 联展，构建智能测试防御新体系你是否想过，在这个互联网高度发达的时 - 掘金](https://juejin.cn/post/7525416155340734502)
 - [轻松切换 Claude Code API 配置，畅享多渠道高效编程体验本文分享了三个获取 Claude Code API - 掘金](https://juejin.cn/post/7527205371480948799)
 - [再分享 300 个 免费层级的 Al Studio key - 福利羊毛 / 福利羊毛, Lv2 - LINUX DO](https://linux.do/t/topic/774335)
 - [闲鱼上新AI监控+通知的完整版来了! - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/791851)
