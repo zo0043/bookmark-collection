@@ -1,3 +1,4 @@
+- [闲鱼上新AI监控+通知的完整版来了! - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/791851)
 - [新型真●一键激活JetBrains全家桶方式，不需要手动下载任何文件(懒人福利)！idea/win/linux/mac - 开发调优 - LINUX DO](https://linux.do/t/topic/694120)
 - [自用生图接口，用不完，怎么也用不完。 - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO](https://linux.do/t/topic/791943/1)
 - [闲鱼上新AI监控+通知的完整版来了! - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/791851/1)
