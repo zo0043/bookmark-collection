@@ -1,3 +1,4 @@
+- [Deep research 做出的prompt很牛逼 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/811379)
 - [从原理到落地：MCP在Spring AI中的工程实践本篇文章围绕MCP的提出背景与核心原理展开，并结合Spring AI - 掘金](https://juejin.cn/post/7512902892585992228)
 - [代码随想录知识星球精华-最强八股文（第五版） - 资源荟萃 - LINUX DO](https://linux.do/t/topic/268876)
 - [🚀一站式解决多API管理痛点 支持CCR/Claude Code - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/806119)
