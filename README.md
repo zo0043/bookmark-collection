@@ -1,3 +1,4 @@
+- [Claude Code Sub-Agents：从手工作坊到自动化工厂](https://mp.weixin.qq.com/s/bV5Cp3Ai0Q32L_M1m887Lg)
 - [Deep research 做出的prompt很牛逼 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/811379)
 - [从原理到落地：MCP在Spring AI中的工程实践本篇文章围绕MCP的提出背景与核心原理展开，并结合Spring AI - 掘金](https://juejin.cn/post/7512902892585992228)
 - [代码随想录知识星球精华-最强八股文（第五版） - 资源荟萃 - LINUX DO](https://linux.do/t/topic/268876)
