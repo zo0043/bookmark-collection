@@ -1,3 +1,4 @@
+- [能填满你提示词库的220个超级prompt - 资源荟萃 - LINUX DO](https://linux.do/t/topic/819348/1)
 - [New API](https://newapi.aliyahzombie.top/pricing)
 - [Claude Code Sub-Agents：从手工作坊到自动化工厂](https://mp.weixin.qq.com/s/bV5Cp3Ai0Q32L_M1m887Lg)
 - [Deep research 做出的prompt很牛逼 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/811379)
