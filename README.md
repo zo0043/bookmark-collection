@@ -1,3 +1,11 @@
+- [(21) Jackywine on X: "最近让 AI 帮我做网页，但是页面太丑，我找了几个开源代码库，直接把需要的效果给 AI 让它打造同样的效果就可以了
+推荐几个还不错的：
+https://t.co/1T2xElbW0P 
+https://t.co/Y8N5gfo6bL
+https://t.co/Hbxx1gdzKR 
+https://t.co/9yjIH7Wdcp
+https://t.co/5wRH8W7n7z
+https://t.co/X5S51Z2nRl https://t.co/sckPuEEG33" / X](https://x.com/Jackywine/status/1948214743707369503)
 - [分享几个Claude Code Sub Agent 抛砖引玉 - 开发调优 - LINUX DO](https://linux.do/t/topic/819015)
 - [能填满你提示词库的220个超级prompt - 资源荟萃 - LINUX DO](https://linux.do/t/topic/819348/1)
 - [New API](https://newapi.aliyahzombie.top/pricing)
