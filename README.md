@@ -1,3 +1,4 @@
+- [(21) 逐梦AI赚钱实战 (@AmbitiousXU) / X](https://x.com/ambitiousxu)
 - [(21) Jackywine on X: "最近让 AI 帮我做网页，但是页面太丑，我找了几个开源代码库，直接把需要的效果给 AI 让它打造同样的效果就可以了
 推荐几个还不错的：
 https://t.co/1T2xElbW0P 
