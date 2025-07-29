@@ -1,3 +1,4 @@
+- [教程来了! 年付 不到20元的垃圾VPS变废为宝 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/822975/1)
 - [淘宝无货源创业系列全流程课 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/822274)
 - [sambanova key（5$ * 50） - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/821750/1)
 - [(21) 逐梦AI赚钱实战 (@AmbitiousXU) / X](https://x.com/ambitiousxu)
