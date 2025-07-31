@@ -1,3 +1,4 @@
+- [分享一个让AI只生成必要的代码的通用Prompt，欢迎一起调优~ - 搞七捻三 - LINUX DO](https://linux.do/t/topic/830802/2)
 - [免费开源无限流量的VPN - 开发调优 / 开发调优, Lv2 - LINUX DO](https://linux.do/t/topic/815179)
 - [您的专属国际学生证生成器。只需一分钟，即可打造一张以假乱真的高清ID. - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/824882)
 - [教程来了! 年付 不到20元的垃圾VPS变废为宝 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/822975/1)
