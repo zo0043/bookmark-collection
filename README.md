@@ -1,3 +1,4 @@
+- [AI 基础知识从 0.5 到 0.6—— Transformer 架构为何能统治AI领域？](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552148&idx=1&sn=709bf5817423b8d9560cb5abc7b0337b&poc_token=HN_AlWijbiCuKqS6sPaQGVqBnocSJw4hI615Gxnc)
 - [让claude4 sonnet 开发的前端具备现代化UI界面的提示词 - 开发调优 - LINUX DO](https://linux.do/t/topic/837381)
 - [教大家如何开启欧洲跨境之路，哈哈 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/846923)
 - [在 Linux 中管理多个终端会话的Tmux命令示例](https://mp.weixin.qq.com/s?__biz=MzUyMTYwMDYxMA==&mid=2247503359&idx=1&sn=f7576ba6c545608b5c504e7a032bcaf4&poc_token=HB7dkGij1EFeESbC_dXOFPKEr2L8eaHHrhI-Vw72)
