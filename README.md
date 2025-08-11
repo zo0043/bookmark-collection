@@ -1,3 +1,4 @@
+- [独立开发者“穷鬼套餐”：AI编程与Web部署的极致省钱攻略 - 开发调优 - LINUX DO](https://linux.do/t/topic/859007/1)
 - [Claude Code 高效开发实战：从新手到专家的进阶指南 - 博客 - Hrefgo AI](https://hrefgo.com/blog/claude-code-development-expert-guide)
 - [AI 基础知识从 0.5 到 0.6—— Transformer 架构为何能统治AI领域？](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552148&idx=1&sn=709bf5817423b8d9560cb5abc7b0337b&poc_token=HN_AlWijbiCuKqS6sPaQGVqBnocSJw4hI615Gxnc)
 - [让claude4 sonnet 开发的前端具备现代化UI界面的提示词 - 开发调优 - LINUX DO](https://linux.do/t/topic/837381)
