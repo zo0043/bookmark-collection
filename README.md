@@ -1,3 +1,4 @@
+- [初探：从0开始的AI-Agent开发踩坑实录](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552562&idx=1&sn=01ba362287b9b806e6ab216ef1784599&poc_token=HPzQr2ijLOREX0_9XLGEbEX5Mca2RrwvnX-P6gri)
 - [把Gemini CLI 用作 claude code 的sub agent - 开发调优 - LINUX DO](https://linux.do/t/topic/897837)
 - [独立开发者“穷鬼套餐”：AI编程与Web部署的极致省钱攻略 - 开发调优 - LINUX DO](https://linux.do/t/topic/859007/1)
 - [Claude Code 高效开发实战：从新手到专家的进阶指南 - 博客 - Hrefgo AI](https://hrefgo.com/blog/claude-code-development-expert-guide)
