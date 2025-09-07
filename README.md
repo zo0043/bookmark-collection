@@ -1,3 +1,4 @@
+- [推荐2个通用简单强大的爬虫工具 - 不是广告，是我主观认为而已 - 开发调优 - LINUX DO](https://linux.do/t/topic/934941)
 - [MinerU小纸条：助力每一位佬友实现OCR自由 - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO](https://linux.do/t/topic/932946/1)
 - [白嫖HuggingFace 提供 16GB 内存服务器，AI 开发者的福 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO](https://linux.do/t/topic/913315)
 - [初探：从0开始的AI-Agent开发踩坑实录](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552562&idx=1&sn=01ba362287b9b806e6ab216ef1784599&poc_token=HPzQr2ijLOREX0_9XLGEbEX5Mca2RrwvnX-P6gri)
