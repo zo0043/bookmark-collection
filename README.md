@@ -1,3 +1,4 @@
+- [面试官：“聊聊你最复杂的项目？” 为什么90%的候选人第一句就栽了？三句话，我决定要他了 最近团队业务扩张，所以有一些H - 掘金](https://juejin.cn/post/7546977677472038939)
 - [推荐2个通用简单强大的爬虫工具 - 不是广告，是我主观认为而已 - 开发调优 - LINUX DO](https://linux.do/t/topic/934941)
 - [MinerU小纸条：助力每一位佬友实现OCR自由 - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO](https://linux.do/t/topic/932946/1)
 - [白嫖HuggingFace 提供 16GB 内存服务器，AI 开发者的福 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO](https://linux.do/t/topic/913315)
