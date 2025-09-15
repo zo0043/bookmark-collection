@@ -1,3 +1,4 @@
+- [很多人问Agent学习路线图，佬友！github开源项目来学习Agent - 开发调优 - LINUX DO](https://linux.do/t/topic/957651)
 - [CC公益+智谱4.5系公益，暂定维护一个月 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO](https://linux.do/t/topic/953139)
 - [面试官：“聊聊你最复杂的项目？” 为什么90%的候选人第一句就栽了？三句话，我决定要他了 最近团队业务扩张，所以有一些H - 掘金](https://juejin.cn/post/7546977677472038939)
 - [推荐2个通用简单强大的爬虫工具 - 不是广告，是我主观认为而已 - 开发调优 - LINUX DO](https://linux.do/t/topic/934941)
