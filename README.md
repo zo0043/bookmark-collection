@@ -1,3 +1,4 @@
+- [算法视角下的人工智能历史演进及其数学原理剖析 – ELE-yufo](https://www.ele-yufo.com/archives/2034)
 - [Design Pinterest - TianPan.co](https://tianpan.co/blog/2016-02-13-crack-the-system-design-interview)
 - [这是一期价值10w的需求调研保姆级教程，独立开发者/程序员转 - 即刻App](https://m.okjike.com/originalPosts/68cface096133333105e13e5)
 - [搞定系统设计题：如何设计一个订单系统？1. 引言 在技术面试中，系统设计题往往是最能体现候选人综合能力的环节。相比于单纯 - 掘金](https://juejin.cn/post/7551973167376957480)
