@@ -1,3 +1,4 @@
+- [教程：如何点一下就自动批量下载一个 YouTuber 主页 全部几百个视频？ （学会可用此赚到钱）（最关键的不是ip问题，而是不能一次提交太多请求）（附完整探索经历） - 搞七捻三 - LINUX DO](https://linux.do/t/topic/997938)
 - [分类 信息时代 下的文章 - 科学空间|Scientific Spaces](https://kexue.fm/category/Big-Data)
 - [混合专家模型（MoE）详解](https://huggingface.co/blog/zh/moe)
 - [NLP问题特征表达基础 - 语言模型（Language Model）发展演化历程讨论 - 郑瀚 - 博客园](https://www.cnblogs.com/LittleHann/p/7200618.html)
