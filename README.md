@@ -1,3 +1,4 @@
+- [很多大公司为什么禁止在SpringBoot项目中使用Tomcat？前言 今天我们来聊聊一个很有意思的现象：为什么越来越多 - 掘金](https://juejin.cn/post/7554402481913905152)
 - [【万字长文】大模型训练推理和性能优化算法总结和实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247553523&idx=1&sn=a55dbdc4479fcbc45ce51aa54294b1bb&poc_token=HDSf22ij2a-Qdxs7aBxn_PZf5CTuiAwW-f7YMNq-)
 - [教程：如何点一下就自动批量下载一个 YouTuber 主页 全部几百个视频？ （学会可用此赚到钱）（最关键的不是ip问题，而是不能一次提交太多请求）（附完整探索经历） - 搞七捻三 - LINUX DO](https://linux.do/t/topic/997938)
 - [分类 信息时代 下的文章 - 科学空间|Scientific Spaces](https://kexue.fm/category/Big-Data)
