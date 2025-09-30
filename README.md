@@ -1,3 +1,4 @@
+- [NLP问题特征表达基础 - 语言模型（Language Model）发展演化历程讨论 - 郑瀚 - 博客园](https://www.cnblogs.com/LittleHann/p/7200618.html)
 - [算法视角下的人工智能历史演进及其数学原理剖析 – ELE-yufo](https://www.ele-yufo.com/archives/2034)
 - [Design Pinterest - TianPan.co](https://tianpan.co/blog/2016-02-13-crack-the-system-design-interview)
 - [这是一期价值10w的需求调研保姆级教程，独立开发者/程序员转 - 即刻App](https://m.okjike.com/originalPosts/68cface096133333105e13e5)
