@@ -1,3 +1,4 @@
+- [豆包 P图 提示词分享~ - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO](https://linux.do/t/topic/1013605/1)
 - [【公益】GLM-4.6,ZAI全家桶，多模态全功能，一万个号无限爽用！(10.5高并发修复完成) - 福利羊毛 / 福利羊毛, Lv2 - LINUX DO](https://linux.do/t/topic/1005993)
 - [很多大公司为什么禁止在SpringBoot项目中使用Tomcat？前言 今天我们来聊聊一个很有意思的现象：为什么越来越多 - 掘金](https://juejin.cn/post/7554402481913905152)
 - [【万字长文】大模型训练推理和性能优化算法总结和实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247553523&idx=1&sn=a55dbdc4479fcbc45ce51aa54294b1bb&poc_token=HDSf22ij2a-Qdxs7aBxn_PZf5CTuiAwW-f7YMNq-)
