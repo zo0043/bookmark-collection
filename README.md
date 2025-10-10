@@ -1,3 +1,4 @@
+- [Transformer模型详解（图解最完整版）](https://zhuanlan.zhihu.com/p/338817680)
 - [写给后端开发工程师的H5前端开发知识](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247488023&idx=1&sn=898275317b688d6fae9f31b5aa7c66d3&chksm=c1624748f615ce5e1f78ba50f322a7f2f47001aae1efe905b76a06572270ad1366a411b7e6a6&cur_album_id=2179023362885287938&scene=190#rd)
 - [豆包 P图 提示词分享~ - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO](https://linux.do/t/topic/1013605/1)
 - [【公益】GLM-4.6,ZAI全家桶，多模态全功能，一万个号无限爽用！(10.5高并发修复完成) - 福利羊毛 / 福利羊毛, Lv2 - LINUX DO](https://linux.do/t/topic/1005993)
