@@ -1,3 +1,4 @@
+- [香草API - 高可用性的Gemini/GLM聚合AI站](https://ai.xiangcao.de/console/token) #公益站
 - [AI Agent全栈开发工程师|2025完结 - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1028966)
 - [薄荷 API](https://x666.me/console/personal) #公益站
 - [23公益站](https://sdwfger.edu.kg/console/log) #公益站
