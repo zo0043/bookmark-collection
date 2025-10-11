@@ -1,3 +1,4 @@
+- [长文更新 | 做AI产品2年多总结出来的25条核心认知](https://mp.weixin.qq.com/s/MYoa7XC1xRuWjpGY1An3dw)
 - [AIGC业务平台](https://tech.qimao.com/aigc-ye-wu-ping-tai/)
 - [AI 代码评审在七猫的实践](https://tech.qimao.com/ai-dai-ma-ping-shen-zai-qi-mao-de-shi-jian/)
 - [香草API - 高可用性的Gemini/GLM聚合AI站](https://ai.xiangcao.de/console/token) #公益站
