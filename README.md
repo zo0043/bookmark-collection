@@ -1,3 +1,4 @@
+- [配置驱动的动态 Agent 架构网络：实现高效编排、动态更新与智能治理本文所阐述的配置驱动智能 Agent 架构，其核心 - 掘金](https://juejin.cn/post/7554311700457422887)
 - [长文更新 | 做AI产品2年多总结出来的25条核心认知](https://mp.weixin.qq.com/s/MYoa7XC1xRuWjpGY1An3dw)
 - [AIGC业务平台](https://tech.qimao.com/aigc-ye-wu-ping-tai/)
 - [AI 代码评审在七猫的实践](https://tech.qimao.com/ai-dai-ma-ping-shen-zai-qi-mao-de-shi-jian/)
