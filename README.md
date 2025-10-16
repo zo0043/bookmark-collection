@@ -1,3 +1,4 @@
+- [【GLM】GLM 4.6 最佳全局开发提示词 - 国产替代 - LINUX DO](https://linux.do/t/topic/1012801)
 - [QiuMo JetBrains Help - JetBrains激活助手](https://ide.mihuyo.cc/#home)
 - [NotoChen/Jetbrains-Help](https://github.com/NotoChen/Jetbrains-Help)
 - [M0914/QiuMo-Jetbrains-Help:](https://gitee.com/guoyifanA/qiu-mo-jetbrains-help)
