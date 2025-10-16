@@ -1,3 +1,4 @@
+- [M0914/QiuMo-Jetbrains-Help:](https://gitee.com/guoyifanA/qiu-mo-jetbrains-help)
 - [用豆包Seedream4.0做知识卡片真的太强了！我整理了10套不同风格的知识卡片提示词！](https://mp.weixin.qq.com/s/8WT0QEbBnk89bHQqhRH0WQ)
 - [Platypus - Create Mac apps from command line scripts  |](https://sveinbjorn.org/platypus)
 - [配置驱动的动态 Agent 架构网络：实现高效编排、动态更新与智能治理本文所阐述的配置驱动智能 Agent 架构，其核心 - 掘金](https://juejin.cn/post/7554311700457422887)
