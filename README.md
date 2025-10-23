@@ -1,3 +1,4 @@
+- [如何用AI写作？](https://mp.weixin.qq.com/s?__biz=MzI1OTA1NjU5OA==&mid=2247487089&idx=1&sn=fb6e2615f9a3cd9b6ba21a8c1718abe0&poc_token=HAQ1-mijg-eb9VJ7zzlduFpRQ9XiducG8bKOz1iB)
 - [[菜鸟教程] 零基础 Cloudflare 优选教程 - 开发调优 - LINUX DO](https://linux.do/t/topic/1062697)
 - [【教程】在 leaflow 上部署自己的 searxng 搜索服务，10分钟内搞定 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/1061446)
 - [【GLM】GLM 4.6 最佳全局开发提示词 - 国产替代 - LINUX DO](https://linux.do/t/topic/1012801)
