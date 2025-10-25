@@ -1,14 +1,14 @@
 name: Bookmark Summary
 
-# on:
-#   schedule:
-#     - cron: '*/5 * * * *'  # 每隔 5 分钟
-#   push:
-#     branches:
-#       - main
-#     paths:
-#       - '**.md'
-#   workflow_dispatch:
+on:
+  schedule:
+    - cron: '* */1 * * *'  # 每隔 5 分钟
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+  workflow_dispatch:
 
 concurrency:
   group: mygroup
