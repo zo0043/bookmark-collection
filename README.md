@@ -1,3 +1,4 @@
+- [【完结31周】AI人工智能算法工程师_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1ZxNS9UzDDRRlUrYAjFoCQA#list/path=%2F%E3%80%90%E5%AE%8C%E7%BB%9331%E5%91%A8%E3%80%91AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88)
 - [快速开始 - MiniMax API Docs](https://minimax-zh.mintlify.dev/docs/guides/quickstart)
 - [到底什么是踏马的 Agentic Workflows？](https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247510703&idx=1&sn=35c9f405d98bc54b2e782598943c3aa8&source=41&poc_token=HMYz-mijvv0muutoT5rdYLr5NiYYCO4Ol_X5QqEp)
 - [如何用AI写作？](https://mp.weixin.qq.com/s?__biz=MzI1OTA1NjU5OA==&mid=2247487089&idx=1&sn=fb6e2615f9a3cd9b6ba21a8c1718abe0&poc_token=HAQ1-mijg-eb9VJ7zzlduFpRQ9XiducG8bKOz1iB)
