@@ -1,3 +1,4 @@
+- [AI人工智能算法工程师_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1h5LzTcMQ3PCyFLFb1DTewg?pwd=6iba#list/path=%2FAI%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88)
 - [分享一个 文章 -> 图文 的提示词，炒鸡好用 - 开发调优 - LINUX DO](https://linux.do/t/topic/1092453)
 - [夸克网盘分享-AI 人工智能工程师](https://pan.quark.cn/s/c6bfe54c7ad8#/list/share/9c832ebef23f44b88ada273c5ad47a87)
 - [【完结31周】AI人工智能算法工程师_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1ZxNS9UzDDRRlUrYAjFoCQA#list/path=%2F%E3%80%90%E5%AE%8C%E7%BB%9331%E5%91%A8%E3%80%91AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88)
