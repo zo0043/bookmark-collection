@@ -1,3 +1,4 @@
+- [慕课-Java七大热门技术框架源码解析【完结】(12.81 GB)-夸克网盘资源下载 -蜂吧](https://www.fengba.net/resource/detail/DK2V7IEMHX43QNHILUDJOHMDPUTV37YXB2VGBQXFJPXLFXLH7ALQ)
 - [慕课实战-图解+仿写 新手都能学懂的SpringBoot源码课-366元(34.73 GB)-夸克网盘资源下载 -蜂吧](https://www.fengba.net/resource/detail/PJDC2GDPHAX7RCIDQH46QBL6XPCNHSWGXNEWMY5ZNSLNYK2HGOPA)
 - [Nodejs+React开发区块链慕课DApp前端工程师必学(9.51 GB)-夸克网盘资源下载 -蜂吧](https://www.fengba.net/resource/detail/OO7R7F7EV6EBVKQLI2EV6GA7HSACGMLNFKNOQMKNKVHMNYIDWBHA)
 - [AI算法工程师就业班 - 带源码课件(94.78 GB)-夸克网盘资源下载 -蜂吧](https://www.fengba.net/resource/detail/YYVXDO3NC2DS4NJAPIIAVLDTXKACGMLNFKNOQMKNKVHMNYIDWBHA?page=1)
