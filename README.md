@@ -1,3 +1,4 @@
+- [完整提示词工程指南：框架、技术与模板手册.pdf](https://drive.google.com/file/d/1re3Ca-7SjSqupXjQpsS-YSjC9-xpoIXU/view?pli=1)
 - [我拆解了百万博主Dan Koe的AI内容系统：一套可复制的高效创作框架！附创作提示词](https://mp.weixin.qq.com/s/DiT8caoJD4MA4Vib8jX_nw)
 - [eraft开发组 - 解读国外优质计算机课程](https://eraft.cn/index.html)
 - [周刊（第24期）：sqlite并发读写的演进之路](https://www.codedump.info/post/20220904-weekly-24/)
