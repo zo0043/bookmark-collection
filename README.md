@@ -1,3 +1,4 @@
+- [eraft开发组 - 解读国外优质计算机课程](https://eraft.cn/index.html)
 - [周刊（第24期）：sqlite并发读写的演进之路](https://www.codedump.info/post/20220904-weekly-24/)
 - [DDIA 逐章精读](https://ddia.qtmuniao.com/#/)
 - [数据处理的大一统——从 Shell 脚本到 SQL 引擎](https://www.qtmuniao.com/2023/08/21/unify-data-processing/)
