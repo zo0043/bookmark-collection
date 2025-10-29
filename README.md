@@ -1,3 +1,4 @@
+- [🍌 nano-banana](https://nano-banana.dev88.me/)
 - [https://ai-api.dev88.me](https://ai-api.dev88.me/pricing) #公益站
 - [Fengye API](https://fengyeai.chat/console)
 - [完整提示词工程指南：框架、技术与模板手册.pdf](https://drive.google.com/file/d/1re3Ca-7SjSqupXjQpsS-YSjC9-xpoIXU/view?pli=1)
