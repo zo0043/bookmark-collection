@@ -1,3 +1,4 @@
+- [夸克网盘分享-慕课网-体系课-LLM大语言模型算法特训 带你转型AI大语言模型算法工程师](https://pan.quark.cn/s/001aa865a59c#/list/share)
 - [慕课-Java七大热门技术框架源码解析-夸克网盘分享](https://pan.quark.cn/s/644847030ad8#/list/share)
 - [黑马-Java面试专题课(狂野架构师)-夸克网盘分享](https://pan.quark.cn/s/9b5fbcdc6b06#/list/share)
 - [不用再配服务器了！这套 Next.js + Cloudflare 模板，一个人零成本搞定全栈出海作为开发者，我们都想快速 - 掘金](https://juejin.cn/post/7564921269491580943)
