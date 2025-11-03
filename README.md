@@ -1,3 +1,4 @@
+- [拿捏 AI 帮你拆分镜，5 分钟成为 AI 大神](https://mp.weixin.qq.com/s/W2V5-KV6PgquKsfExRbaYg)
 - [夸克网盘分享-AI大模型应用开发​模型训练-RAG-Agent-AI项目实战-行业落地课](https://pan.quark.cn/s/392a3d1ad19b#/list/share)
 - [夸克网盘分享-2025最新版大模型RAG入门到精通实战教程](https://pan.quark.cn/s/ac075a8e818f#/list/share)
 - [夸克网盘分享-【慕课】中高级开发晋升利器 MySQL面试指南(1)](https://pan.quark.cn/s/f402ac781247#/list/share)
