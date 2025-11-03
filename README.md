@@ -1,3 +1,4 @@
+- [如何讲清一个需求？聊聊用户故事地图、PRD、原型图与验收标准](https://mp.weixin.qq.com/s/feJzMNABRbBINxFLp8Mj-A)
 - [拿捏 AI 帮你拆分镜，5 分钟成为 AI 大神](https://mp.weixin.qq.com/s/W2V5-KV6PgquKsfExRbaYg)
 - [夸克网盘分享-AI大模型应用开发​模型训练-RAG-Agent-AI项目实战-行业落地课](https://pan.quark.cn/s/392a3d1ad19b#/list/share)
 - [夸克网盘分享-2025最新版大模型RAG入门到精通实战教程](https://pan.quark.cn/s/ac075a8e818f#/list/share)
