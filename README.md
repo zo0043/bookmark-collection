@@ -1,3 +1,4 @@
+- [夸克网盘分享-木鱼水心《B站充电专属视频合集》](https://pan.quark.cn/s/66a65416d6f9#/list/share)
 - [夸克网盘分享-AI短视频运营实操课，一个人用AI做自媒体](https://pan.quark.cn/s/c32cdb8b9319#/list/share)
 - [ai-wedding/docs/prompt-optimization-v3-success-case.md at main · zo0043/ai-wedding](https://github.com/zo0043/ai-wedding/blob/main/docs/prompt-optimization-v3-success-case.md)
 - [小白想做 10w + 家宴美食号？Coze+Nano Banana 3 分钟出文进草稿箱大家好，我是小肥肠，专注 AI  - 掘金](https://juejin.cn/post/7554648039462387766)
