@@ -1,3 +1,4 @@
+- [夸克网盘分享-0295.全新Langchain大模型AI应用与多智能体实战开发](https://pan.quark.cn/s/de32b150546f#/list/share)
 - [夸克网盘分享-LLM应用开发平台特训营（17周）](https://pan.quark.cn/s/9781926792d9#/list/share)
 - [夸克网盘分享-木鱼水心《B站充电专属视频合集》](https://pan.quark.cn/s/66a65416d6f9#/list/share)
 - [夸克网盘分享-AI短视频运营实操课，一个人用AI做自媒体](https://pan.quark.cn/s/c32cdb8b9319#/list/share)
