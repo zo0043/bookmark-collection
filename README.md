@@ -1,3 +1,4 @@
+- [夸克网盘分享-LLM应用开发平台特训营（17周）](https://pan.quark.cn/s/9781926792d9#/list/share)
 - [夸克网盘分享-木鱼水心《B站充电专属视频合集》](https://pan.quark.cn/s/66a65416d6f9#/list/share)
 - [夸克网盘分享-AI短视频运营实操课，一个人用AI做自媒体](https://pan.quark.cn/s/c32cdb8b9319#/list/share)
 - [ai-wedding/docs/prompt-optimization-v3-success-case.md at main · zo0043/ai-wedding](https://github.com/zo0043/ai-wedding/blob/main/docs/prompt-optimization-v3-success-case.md)
