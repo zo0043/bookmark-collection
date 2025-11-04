@@ -1,3 +1,4 @@
+- [夸克网盘分享-知识旅行家Web3币圈搞钱实战课](https://pan.quark.cn/s/2f21bbcb6ee2#/list/share)
 - [夸克网盘分享-测试高薪必学-大厂全链路质量保障体系落地实战](https://pan.quark.cn/s/d7a83f3204c3#/list/share)
 - [夸克网盘分享-794.吴师兄大模型训练营25年新版实战课程](https://pan.quark.cn/s/b11f66f36eca#/list/share)
 - [夸克网盘分享-0295.全新Langchain大模型AI应用与多智能体实战开发](https://pan.quark.cn/s/de32b150546f#/list/share)
