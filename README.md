@@ -1,3 +1,4 @@
+- [一个扒穿搭 OOTD 的 prompt 效果个人觉得还是很不错的。 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/1209295)
 - [(99+ 封私信 / 80 条消息) 你认为该图片是真实拍摄的还是由AI生成的？ - 知乎](https://www.zhihu.com/question/1971246965376389265)
 - [夸克网盘分享-AI一键生成头条原创情感故事，0粉丝照样日入200+教程](https://pan.quark.cn/s/6708e8d43bdb#/list/share)
 - [夸克网盘分享-严伯钧AI超级个体](https://pan.quark.cn/s/9efae14cecb0#/list/share)
