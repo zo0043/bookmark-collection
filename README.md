@@ -1,3 +1,9 @@
+- [(20) Berryxia.AI on X: "🔥来来来！别到处自己瞎琢磨绘制这个大火的蓝图
+
+直接复制提示词，替换你需要展示的主题内容即可✌🏻。
+
+Prompt：
+一张 [SPace X] 的高角度广角实景摄影照片作为背景，上面覆盖着详细的白色技术工程原理图和蓝图线条。风格是直接在照片上进行白色手绘粉笔或铅笔素描。关键元素包括：标示 [主体关键尺寸] https://t.co/R6BTPu5inf" / X](https://x.com/berryxia_ai/status/1992422194341957878)
 - [一个扒穿搭 OOTD 的 prompt 效果个人觉得还是很不错的。 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/1209295)
 - [(99+ 封私信 / 80 条消息) 你认为该图片是真实拍摄的还是由AI生成的？ - 知乎](https://www.zhihu.com/question/1971246965376389265)
 - [夸克网盘分享-AI一键生成头条原创情感故事，0粉丝照样日入200+教程](https://pan.quark.cn/s/6708e8d43bdb#/list/share)
