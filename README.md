@@ -1,3 +1,10 @@
+- [(20) Nagi Yan on X: "《为什么 90% 的 AI 项目都会失败？——从 Claude Code 被当脚本用说起》
+
+最近看到很多公司兴冲冲地部署各种“企业级 AI 项目”，例如把 Claude Code、GPT、Gemini 搬上服务器，让它们对代码库“自动做分析”“自动提报告”“自动查变更”。
+
+听起来很先进。
+
+但现实往往是：" / X](https://x.com/naki2012/status/1993570677467890144)
 - [让AI评测AI：构建智能客服的自动化运营Agent体系](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247555905&idx=1&sn=334b37e5292774a97718d60f9b6d81dd&poc_token=HKE9KGmjtXNNBEGO0FWb3c52S-tSToagVzSsFzzS)
 - [大香蕉 （ Banana Pro） 是真的顶，把文章变成卡通信息图 - 开发调优 - LINUX DO](https://linux.do/t/topic/1222728/1)
 - [让AI评测AI：构建智能客服的自动化运营Agent体系](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247555905&idx=1&sn=334b37e5292774a97718d60f9b6d81dd&poc_token=HIZkJmmjbkLZczRPm0rO5hbUf73QyrFjit5-eRTy)
