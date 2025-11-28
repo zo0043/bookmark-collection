@@ -1,3 +1,4 @@
+- [[经验贴]设置cherrystudio使得nano banana pro生成自定义图片比例和分辨率 - 开发调优 - LINUX DO](https://linux.do/t/topic/1220896)
 - [(20) Nagi Yan on X: "《为什么 90% 的 AI 项目都会失败？——从 Claude Code 被当脚本用说起》
 
 最近看到很多公司兴冲冲地部署各种“企业级 AI 项目”，例如把 Claude Code、GPT、Gemini 搬上服务器，让它们对代码库“自动做分析”“自动提报告”“自动查变更”。
