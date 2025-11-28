@@ -1,3 +1,4 @@
+- [从「写代码」到「验代码」：AI 搭档写走 3 年，我踩出来的协作路线图](https://miss-you.github.io/posts/20251124-how-to-coding-with-ai/)
 - [[经验贴]设置cherrystudio使得nano banana pro生成自定义图片比例和分辨率 - 开发调优 - LINUX DO](https://linux.do/t/topic/1220896)
 - [(20) Nagi Yan on X: "《为什么 90% 的 AI 项目都会失败？——从 Claude Code 被当脚本用说起》
 
