@@ -1,3 +1,4 @@
+- [让 AI 评测 AI：构建智能客服的自动化运营 Agent 体系 | BestBlogs.dev](https://www.bestblogs.dev/article/8b5263a5)
 - [AI 智能体构建总结：17 种架构详细实现！ | BestBlogs.dev](https://www.bestblogs.dev/article/40c3a445)
 - [从「写代码」到「验代码」：AI 搭档写走 3 年，我踩出来的协作路线图](https://miss-you.github.io/posts/20251124-how-to-coding-with-ai/)
 - [[经验贴]设置cherrystudio使得nano banana pro生成自定义图片比例和分辨率 - 开发调优 - LINUX DO](https://linux.do/t/topic/1220896)
