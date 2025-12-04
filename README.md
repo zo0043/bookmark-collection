@@ -1,3 +1,13 @@
+- [(21) 松果先森 on X: "兄弟们，这种效果的Nano banana pro提示词给你们提取出来了
+
+请叫我一声欧巴
+
+原作者提示词只贴了图
+
+Nano banana pro提示词（需上传一张参考图）：
+
+&lt;instruction&gt; (指令)
+分析输入图像的整个构图。识别所有存在的关键主体（无论是单人、群体/情侣、车辆还是特定物体）及其空间关系/互动。 https://t.co/nW61SdGgGM" / X](https://x.com/songguoxiansen/status/1994783047825473774)
 - [现在agent开发，不论什么项目，都会遇到的又慢又不精准的问题解决了吗？ - 杞鋂 的回答](https://www.zhihu.com/question/1976999445443911873/answer/1977023883245810885)
 - [Agent 全面爆发！一文搞懂 Agent 开发核心链路 | BestBlogs.dev](https://www.bestblogs.dev/article/e73c897b)
 - [让 AI 评测 AI：构建智能客服的自动化运营 Agent 体系 | BestBlogs.dev](https://www.bestblogs.dev/article/8b5263a5)
