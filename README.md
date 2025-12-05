@@ -1,3 +1,4 @@
+- [【分享】《锋声小红书虚拟掘金特训营》，从0打造虚拟项目的系统实操课 - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277306/1)
 - [马士兵 -AI大模型全链路实战（无密） - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277336/1)
 - [程序员的AI 必修的AIGC全栈实战 - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277564/1)
 - [LlamaIndex 深度实战：用《长安的荔枝》学会构建智能问答系统](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556092&idx=1&sn=f1b4672bf5520d929f5370b413099830&poc_token=HBs9Mmmje0f3s4EwpkNkgl3CRg33H1BgKjv8Bizh)
