@@ -1,3 +1,4 @@
+- [马士兵 -AI大模型全链路实战（无密） - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277336/1)
 - [程序员的AI 必修的AIGC全栈实战 - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277564/1)
 - [LlamaIndex 深度实战：用《长安的荔枝》学会构建智能问答系统](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556092&idx=1&sn=f1b4672bf5520d929f5370b413099830&poc_token=HBs9Mmmje0f3s4EwpkNkgl3CRg33H1BgKjv8Bizh)
 - [3天，1人，从0到付费产品：AI时代个人开发者的生存指南3 天，一个人，从 0 到 1 打造一款能变现的 AI 产品。不 - 掘金](https://juejin.cn/post/7577653509862654002)
