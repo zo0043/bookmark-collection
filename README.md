@@ -1,3 +1,4 @@
+- [夸克网盘分享-AI自媒体文章创作教程全集，全网最详细图文实操指南](https://pan.quark.cn/s/323926bc4b87#/list/share)
 - [【分享】《锋声小红书虚拟掘金特训营》，从0打造虚拟项目的系统实操课 - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277306/1)
 - [马士兵 -AI大模型全链路实战（无密） - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277336/1)
 - [程序员的AI 必修的AIGC全栈实战 - 资源荟萃 / 网盘资源 - LINUX DO](https://linux.do/t/topic/1277564/1)
