@@ -1,3 +1,4 @@
+- [LlamaIndex 深度实战：用《长安的荔枝》学会构建智能问答系统](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556092&idx=1&sn=f1b4672bf5520d929f5370b413099830&poc_token=HBs9Mmmje0f3s4EwpkNkgl3CRg33H1BgKjv8Bizh)
 - [3天，1人，从0到付费产品：AI时代个人开发者的生存指南3 天，一个人，从 0 到 1 打造一款能变现的 AI 产品。不 - 掘金](https://juejin.cn/post/7577653509862654002)
 - [10分钟通关瑞士万事达卡(fiat24)，≈0成本，从此绑卡不求人 - 搞七捻三 / 搞七捻三, Lv1 - LINUX DO](https://linux.do/t/topic/761443/2)
 - [(21) 松果先森 on X: "兄弟们，这种效果的Nano banana pro提示词给你们提取出来了
