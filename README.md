@@ -1,3 +1,4 @@
+- [让AI读懂代码需求：大模型微调训练实践及端侧运行部署](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508449&idx=1&sn=c96cd9c452f0fcbc0640c65969638942&chksm=ce3d2d8d16ec207fdf26f1c7c02532ef2aa3bcece5629dea31cd2d886e9e2fba74024f8b6d7f&scene=21&xtrack=1)
 - [让 AI Agent 实时生成个性化交互式可视化体验](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556258&idx=1&sn=3c24a4e8b9167b8839348cf00cbc2055&poc_token=HO9YOWmjLfwqSYv58NngfV8-nbMqAs4OMZOBhyyL)
 - [夸克网盘分享-12月04日付费文](https://pan.quark.cn/s/8c67bacb2ef0#/list/share)
 - [夸克网盘分享-生财有术最新精华帖合集06-最新自整理](https://pan.quark.cn/s/c83b510561eb#/list/share)
