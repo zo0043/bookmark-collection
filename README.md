@@ -1,3 +1,4 @@
+- [让 AI Agent 实时生成个性化交互式可视化体验](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556258&idx=1&sn=3c24a4e8b9167b8839348cf00cbc2055&poc_token=HO9YOWmjLfwqSYv58NngfV8-nbMqAs4OMZOBhyyL)
 - [夸克网盘分享-12月04日付费文](https://pan.quark.cn/s/8c67bacb2ef0#/list/share)
 - [夸克网盘分享-生财有术最新精华帖合集06-最新自整理](https://pan.quark.cn/s/c83b510561eb#/list/share)
 - [【附100+订阅｜1000+节点】囤囤鼠突然失去了囤的快乐 - 开发调优 / 开发调优, Lv1 - LINUX DO](https://linux.do/t/topic/912437)
