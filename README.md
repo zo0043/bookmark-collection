@@ -1,3 +1,4 @@
+- [Claude Skills： 从指令到资产的系统化构建指南](https://www.axtonliu.ai/newsletters/ai-2/posts/claude-agent-skills-maps-framework)
 - [(21) 向阳乔木 on X: "一个AI研究员写的“苏格拉底式说服”。
 
 作者可能是个管理者，分享的都是特别有效的沟通技巧。
