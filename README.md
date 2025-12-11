@@ -1,3 +1,18 @@
+- [(21) 向阳乔木 on X: "一个AI研究员写的“苏格拉底式说服”。
+
+作者可能是个管理者，分享的都是特别有效的沟通技巧。
+
+AI总结下。
+
+---
+
+你一定遇到过这种情况：
+
+给朋友建议，结果发现自己完全误解了情况，场面一度很尴尬。
+
+或者你明明说得很有道理，对方就是听不进去，甚至越说越抵触。
+
+我以前也经常这样。" / X](https://x.com/vista8/status/1996608445370577336)
 - [让AI读懂代码需求：大模型微调训练实践及端侧运行部署](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508449&idx=1&sn=c96cd9c452f0fcbc0640c65969638942&chksm=ce3d2d8d16ec207fdf26f1c7c02532ef2aa3bcece5629dea31cd2d886e9e2fba74024f8b6d7f&scene=21&xtrack=1)
 - [让AI读懂代码需求：大模型微调训练实践及端侧运行部署](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247508449&idx=1&sn=c96cd9c452f0fcbc0640c65969638942&chksm=ce3d2d8d16ec207fdf26f1c7c02532ef2aa3bcece5629dea31cd2d886e9e2fba74024f8b6d7f&scene=21&xtrack=1)
 - [让 AI Agent 实时生成个性化交互式可视化体验](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556258&idx=1&sn=3c24a4e8b9167b8839348cf00cbc2055&poc_token=HO9YOWmjLfwqSYv58NngfV8-nbMqAs4OMZOBhyyL)
