@@ -1,3 +1,4 @@
+- [Use My 5 Nano Banana Pro Prompts: AI Update #5](https://www.news.aakashg.com/p/nano-banana-pro-prompts)
 - [Claude Skills： 从指令到资产的系统化构建指南](https://www.axtonliu.ai/newsletters/ai-2/posts/claude-agent-skills-maps-framework)
 - [(21) 向阳乔木 on X: "一个AI研究员写的“苏格拉底式说服”。
 
