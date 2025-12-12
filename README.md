@@ -1,3 +1,4 @@
+- [👦抠腚男孩的AI学习之旅 | 2、玩转Prompt提示词工程🤔 Prompt 是什么？Prompt 工程又是什么？L - 掘金](https://juejin.cn/post/7533892389779652654)
 - [👦抠腚男孩的AI学习之旅 | 4、如何借助AI，高效学习，实现快速"跨域"🤔 尽管掌握了 "Prompt最佳实践框架 - 掘金](https://juejin.cn/post/7540494849926234175)
 - [2025 复盘 | 🚀穿越AI焦虑周期，进化为 "AI全栈"🐶 不卖课，没有流水账，全是干货，浓缩几年 AI 使用心 - 掘金](https://juejin.cn/post/7581648776303755273)
 - [Use My 5 Nano Banana Pro Prompts: AI Update #5](https://www.news.aakashg.com/p/nano-banana-pro-prompts)
