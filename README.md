@@ -1,3 +1,18 @@
+- [(21) 露西的百宝箱 on X: "🌍 10 秒生成时尚杂志大片！
+
+只靠这一条提示词，
+就能让你的照片变成《COSMO》《ELLE》级封面：
+🔗 https://t.co/vRJsHr0pPS
+
+只需要准备两样素材：
+1️⃣ 人物照片
+2️⃣ 一串经纬度
+
+把它们丢进 Nano Banana Pro ——
+AI 会直接把你生成
+能够上架的时尚杂志封面图
+
+AI 会替你完成整套“封面编辑部”的工作： https://t.co/QO0dMiniA8" / X](https://x.com/Lucy_love_AI/status/2000845681872003508)
 - [(21) 松果先森 on X: "兄弟们，这种效果的Nano banana pro提示词给你们提取出来了
 
 请叫我一声欧巴
