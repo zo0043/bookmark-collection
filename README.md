@@ -1,3 +1,13 @@
+- [(21) 松果先森 on X: "兄弟们，这种效果的Nano banana pro提示词给你们提取出来了
+
+请叫我一声欧巴
+
+原作者提示词只贴了图
+
+Nano banana pro提示词（需上传一张参考图）：
+
+&lt;instruction&gt; (指令)
+分析输入图像的整个构图。识别所有存在的关键主体（无论是单人、群体/情侣、车辆还是特定物体）及其空间关系/互动。 https://t.co/nW61SdGgGM" / X](https://x.com/songguoxiansen/status/1994783047825473774)
 - [Use My 5 Nano Banana Pro Prompts: AI Update #5](https://www.news.aakashg.com/p/nano-banana-pro-prompts)
 - [(21) 小毛哥｜超级个体之路 on X: "如何在 AI 时代不靠运气赚钱？  构建 Vibe Trading 系统，让 AI 帮你熬夜" / X](https://x.com/porounclemao/status/1998675955985035678)
 - [人们都在用AI干什么？100万亿 Token 给出的 AI 启示：《State of AI 2025》报告深度解读](https://mp.weixin.qq.com/s/pfocdR00FrLXc-yGDrtg2Q)
