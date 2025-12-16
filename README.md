@@ -1,3 +1,4 @@
+- [Use My 5 Nano Banana Pro Prompts: AI Update #5](https://www.news.aakashg.com/p/nano-banana-pro-prompts)
 - [(21) 小毛哥｜超级个体之路 on X: "如何在 AI 时代不靠运气赚钱？  构建 Vibe Trading 系统，让 AI 帮你熬夜" / X](https://x.com/porounclemao/status/1998675955985035678)
 - [人们都在用AI干什么？100万亿 Token 给出的 AI 启示：《State of AI 2025》报告深度解读](https://mp.weixin.qq.com/s/pfocdR00FrLXc-yGDrtg2Q)
 - [别再让Claude乱写代码了！一个配置文件让AI准确率提升10%总觉得 Claude 写的代码“不太对劲”？很可能是它根 - 掘金](https://juejin.cn/post/7576861477267079187)
