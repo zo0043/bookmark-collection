@@ -1,3 +1,4 @@
+- [人们都在用AI干什么？100万亿 Token 给出的 AI 启示：《State of AI 2025》报告深度解读](https://mp.weixin.qq.com/s/pfocdR00FrLXc-yGDrtg2Q)
 - [别再让Claude乱写代码了！一个配置文件让AI准确率提升10%总觉得 Claude 写的代码“不太对劲”？很可能是它根 - 掘金](https://juejin.cn/post/7576861477267079187)
 - [Claude Skills： 从指令到资产的系统化构建指南](https://www.axtonliu.ai/newsletters/ai-2/posts/claude-agent-skills-maps-framework)
 - [👦抠腚男孩的AI学习之旅 | 2、玩转Prompt提示词工程🤔 Prompt 是什么？Prompt 工程又是什么？L - 掘金](https://juejin.cn/post/7533892389779652654)
