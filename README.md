@@ -1,3 +1,8 @@
+- [(21) 松果先森 on X: "大唐盛世与巴黎写真照
+
+Nano banana pro提示词：
+
+生成一张 9:16 竖版「大唐盛世与巴黎」写实照片：以我上传的 FACE_REF https://t.co/pgxiM36vAt" / X](https://x.com/songguoxiansen/status/2001198742998016062)
 - [(21) 露西的百宝箱 on X: "🌍 10 秒生成时尚杂志大片！
 
 只靠这一条提示词，
