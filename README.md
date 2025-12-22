@@ -1,3 +1,4 @@
+- [AI热点选品：当推荐系统遇上“热点”，我们需要一场变革](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247556581&idx=1&sn=e9e401c37766642b1198f3380e5776f9&poc_token=HFTBSGmjq-v7acYuYfFfxs1BRrdAnpQPpiRKQ8jq)
 - [(21) VoxcatAI on X: "优化了提示词，这种风格在儿童绘本、节日贺卡、以及具有治愈感的装饰画中很受欢迎 👇
 请生成一张“多层剪纸光影灯箱”艺术图，主题是【{填写你的主题}】。画面必须像真实物理纸雕作品的高清拍摄：至少 6 https://t.co/CMI0mMwXsJ" / X](https://x.com/VoxcatAI/status/1999546847392858323)
 - [(21) 松果先森 on X: "大唐盛世与巴黎写真照
